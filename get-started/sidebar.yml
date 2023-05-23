@@ -1,0 +1,16 @@
+---
+section: get-started
+title: Inizia subito
+entries:
+- title: Scopri l'efficienza economica di BlueXP
+  url: "/get-started/intro.html"
+- title: Prerequisiti
+  url: "/get-started/prerequisites.html"
+- title: Avvio rapido
+  url: "/get-started/quick-start.html"
+- title: Impostare l'efficienza economica di BlueXP
+  url: "/get-started/capacity-setup.html"
+- title: Accedi all'efficienza economica di BlueXP
+  url: "/get-started/capacity-login.html"
+- title: FAQ
+  url: "/get-started/faq.html"

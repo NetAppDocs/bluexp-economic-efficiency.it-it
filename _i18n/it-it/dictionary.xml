@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="b7ec73ab5a17a83ab2fe26bc232073c2" category="summary">Per utilizzare l'efficienza economica di BlueXP, eseguire alcuni passaggi per configurarla.</block>
+  <block id="3c3457659be71e581c1a88bdaf9cbdcd" category="doc">Impostare l'efficienza economica di BlueXP</block>
+  <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="inline-link-macro">prerequisiti</block>
+  <block id="90663bb87b6bec4a92a7b1f0dc5b480d" category="list-text">Revisione <block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> per garantire che il tuo ambiente sia pronto.</block>
+  <block id="1835d0517fe4ffa8b6a639fa95e369ad" category="list-text">Creare un connettore in BlueXP.</block>
+  <block id="e676f0c089390ef0b70aea9845c97efa" category="list-text">Scopri il cluster in BlueXP.</block>
+  <block id="c76e8df73df2a4958416b2c5c7eb3432" category="paragraph">È possibile creare un connettore direttamente in BlueXP e utilizzarlo in seguito nell'efficienza economica di BlueXP. In alternativa, è possibile creare il connettore durante il processo di correzione della capacità.</block>
+  <block id="21f0b443c05de24878feaa5358224e29" category="paragraph">Allo stesso modo, è possibile scoprire il cluster in anticipo utilizzando BlueXP o durante il processo di correzione della capacità.</block>
+  <block id="ccaaa0b1fdb9afd84865d38039f74d41" category="section-title">Creare un connettore in BlueXP</block>
+  <block id="0e13adbff2b342064a892a15607f1d16" category="paragraph">Un connettore BlueXP include credenziali per le macchine NetApp ONTAP.</block>
+  <block id="d29bda09bea50f3d6b0e9d9d61015179" category="inline-link">come creare un connettore</block>
+  <block id="32ed92d70b140ee92a015de26f8ca076" category="paragraph">Per creare un connettore in BlueXP prima di utilizzare il servizio, consultare la documentazione di BlueXP che descrive<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>.</block>
+  <block id="8cb57f3692a9a95873b528375ca802ad" category="section-title">Scopri il cluster in BlueXP</block>
+  <block id="6ac16908cedf4f30facecaf3b473c7de" category="paragraph">Parte dell'installazione implica l'identificazione del nome del cluster, dell'IP, del nome utente e della password in BlueXP.</block>
+  <block id="c5fbee6586294d81141f8dd158707985" category="inline-link">Scopri i cluster ONTAP on-premise</block>
+  <block id="d537b3bbd8539d0832f2526fedeaa9c0" category="paragraph">Per istruzioni prima di utilizzare il servizio, fare riferimento a.<block ref="6585a34a169ce9e8b8f4633a3f458722" category="inline-link-rx"></block>.</block>
+  <block id="7372cb38b352714605614895b4902bd6" category="summary">Inizia a utilizzare l'efficienza economica di BlueXP verificando il supporto per il tuo ambiente, l'accesso alla rete, l'accesso e il browser Web.</block>
+  <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">Prerequisiti per l'efficienza economica di BlueXP</block>
+  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">Inizia verificando la preparazione del tuo ambiente operativo, dell'accesso, dell'accesso alla rete e del browser Web.</block>
+  <block id="328ca69db7afb3bf526a93cf02e334f5" category="paragraph">Per utilizzare l'efficienza economica di BlueXP, è necessario assicurarsi che il proprio ambiente soddisfi tutti i requisiti.</block>
+  <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">L'ambiente deve soddisfare tutti i requisiti di BlueXP, inclusi accesso e accesso alla rete da un browser Web.</block>
+  <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">Avvio rapido di BlueXP</block>
+  <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">Informazioni di rete BlueXP</block>
+  <block id="ab38a54ae4da8a4cab463c7bb64ef70a" category="paragraph">Fare riferimento a.<block ref="4b1866f17dc6bd66f88d9d6839084df6" category="inline-link-rx"></block> e.<block ref="8b2e3c99c244ff11d22f3c561bd167b2" category="inline-link-rx"></block>.</block>
+  <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">È necessario disporre delle credenziali di accesso ai cluster.</block>
+  <block id="04346ae081b15c5b07fe9620a0a0fae7" category="list-text">Sebbene non sia un requisito, è utile che BlueXP Connector sia installato e attivato e che il sistema ONTAP venga rilevato. In caso contrario, il servizio guida l'utente attraverso tali processi.</block>
+  <block id="dddec778c9cbb4c6fc3917f4b8148b57" category="list-text">Se si prevede di eseguire il tiering dei dati cold nello storage cloud, assicurarsi che il cluster sia idoneo per la licenza.</block>
+  <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">Queste FAQ possono essere utili se stai cercando una risposta rapida a una domanda.</block>
+  <block id="2aac28c0e66ef23b3e92b337139061df" category="doc">Domande frequenti sull'efficienza economica di BlueXP</block>
+  <block id="722e45d4312069bddbd843c7cfde4d62" category="section-title">Accesso all'efficienza economica di BlueXP</block>
+  <block id="ab56773ec54d1f5da941c2a5911ab633" category="paragraph">*Qual è l'URL di efficienza economica BlueXP?*</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
+  <block id="97196dcbb301c06780e3699ce570a095" category="paragraph">Per l'URL, in un browser, immettere:<block ref="6db7b50bf17b27cbede9f07c4fbc973e" category="inline-link-rx"></block> Per accedere alla console BlueXP.</block>
+  <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">Licensing</block>
+  <block id="13d1effb4b36d6b3478f0737f984f459" category="paragraph">*È necessaria una licenza per utilizzare l'efficienza economica di BlueXP?*</block>
+  <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">Non è richiesto un file di licenza NetApp (NLF).</block>
+  <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">Il servizio di efficienza economica BlueXP identifica i cluster con capacità bassa corrente o prevista e fornisce consigli su tiering dei dati o capacità aggiuntiva (per i sistemi AFF).</block>
+  <block id="df213f3ab79b8da9c8b1a9aa66a49358" category="doc">Scopri l'efficienza economica di BlueXP</block>
+  <block id="4174e7acaa0d2a79ceca6bdc82e5321c" category="paragraph">La pianificazione della capacità è essenziale per evitare tempi di inattività non necessari a causa della bassa capacità dei sistemi. L'efficienza economica di BlueXP può aiutarti a ottenere i seguenti risultati:</block>
+  <block id="6a38b1e28c18e6b4edeb4e7b0818a2d7" category="list-text">Identificare le risorse di storage del tuo ambiente che mostrano una capacità bassa.</block>
+  <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">Esaminare le risorse per la capacità corrente e prevista.</block>
+  <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">Esamina l'utilizzo della CPU, le performance IOPS e le performance di latenza per determinare le opportunità di correzione della capacità.</block>
+  <block id="a83631a3d8ab10baf32d9bd94cb9b5d3" category="paragraph">L'efficienza economica di BlueXP identifica le risorse di storage con capacità bassa corrente o prevista e fornisce consigli sul tiering dei dati o sulla capacità aggiuntiva (per i sistemi AFF). Se scegli di aggiungere capacità, una richiesta con consigli dettagliati viene inoltrata a te e a un rappresentante NetApp. Questa richiesta include i dettagli necessari per semplificare la selezione della capacità e la richiesta di ordine.</block>
+  <block id="73392ce9486f187520554de1730eae2e" category="paragraph">È possibile accedere al servizio in BlueXP nella categoria *Governance*.</block>
+  <block id="606b72f9a7450d39e6e110c4edcdbd88" category="paragraph">L'efficienza economica di BlueXP si applica solo ai sistemi AFF on-premise (inclusi i sistemi AFF unificati e tutti gli array SAN).</block>
+  <block id="6c4ccbebd2c1bc279ee2cb6f8f6b41f9" category="section-title">Vantaggi dell'efficienza economica di BlueXP</block>
+  <block id="fa994af86d0c0087b7eee14a622f20f6" category="paragraph">L'efficienza economica di BlueXP offre i seguenti vantaggi:</block>
+  <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">Offre un processo semplice per ottenere capacità aggiuntiva</block>
+  <block id="c0990af989044900779cae7e6e736849" category="list-text">Offre un consulente fidato e consigli per risolvere i problemi di capacità nel tuo ambiente</block>
+  <block id="757f36865bb189e37e6988545be631ca" category="list-text">Riduce il tempo impiegato per la pianificazione di storage aggiuntivo</block>
+  <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">Costo</block>
+  <block id="9c303ae8a4f6a61eadb0ef12c9577f18" category="paragraph">NetApp non addebita alcun costo per l'utilizzo del servizio. Se decidi di eseguire il tiering dei dati cold allo storage cloud, dovrai controllare il tuo cloud provider per verificare i costi applicabili.</block>
+  <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">Inizia a utilizzare l'efficienza economica di BlueXP accedendo al servizio in BlueXP.</block>
+  <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">Accedi all'efficienza economica di BlueXP</block>
+  <block id="e4ceda68ed2ad1c8b6de4d9499487b31" category="paragraph">Utilizzate NetApp BlueXP per accedere al servizio di efficienza economica.</block>
+  <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">Scopri di più sull'accesso</block>
+  <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">Per accedere a BlueXP, puoi utilizzare le credenziali del sito di supporto NetApp oppure iscriverti per un login cloud NetApp utilizzando la tua email e una password.<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>.</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Fasi</block>
+  <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link">Console BlueXP</block>
+  <block id="d2dadcd80abef33f02b8317102f819f0" category="list-text">Aprire un browser Web e accedere a.<block ref="4d9841a08a6f1c082f5ba73c5d87fcc1" category="inline-link-rx"></block>.</block>
+  <block id="753e3c2055278365db83b605f29d4860" category="paragraph">Viene visualizzata la pagina di accesso a NetApp BlueXP.</block>
+  <block id="ad84736d27b7f84414783598f4ffd0d9" category="list-text">Accedere a BlueXP.</block>
+  <block id="7482156833e57efa7b936e9aa5221f5a" category="list-text">Dalla barra di navigazione a sinistra di BlueXP, selezionare *Governance* &gt; *Economic Efficiency*.</block>
+  <block id="501089da83496a12da7846c949b29a52" category="summary">Inizia a utilizzare il servizio NetApp BlueXP Economic Efficiency in pochi passaggi.</block>
+  <block id="f27ce016259562ba8cd33e55e719a92e" category="doc">Avvio rapido per l'efficienza economica di BlueXP</block>
+  <block id="c2b40c93f214d1f116185f61e51a626c" category="paragraph">Ecco una panoramica dei passaggi necessari per iniziare a utilizzare l'efficienza economica di BlueXP. I collegamenti all'interno di ogni passaggio consentono di accedere a una pagina che fornisce ulteriori dettagli.</block>
+  <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">Uno</block>
+  <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> Esaminare i prerequisiti</block>
+  <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">Assicurati che il tuo ambiente soddisfi questi requisiti</block>
+  <block id="ced4b743323450a7e7e56480339ef345" category="paragraph"><block ref="3ad9f09af84a8cf38e8d4dc8f0c46658" category="inline-link-macro-rx"></block>.</block>
+  <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">Due</block>
+  <block id="aaa9c54233f5e7b76837549c4c1bbc28" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> Configurare il servizio di efficienza economica</block>
+  <block id="cc6726e02ea7bc25f1ed413652107bdb" category="inline-link-macro">Completare la procedura per configurare il servizio</block>
+  <block id="60766643470eca71a0ef352b62e0a838" category="paragraph"><block ref="6ae54feb46cd36301fb1386a964f0be6" category="inline-link-macro-rx"></block>.</block>
+  <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">Tre</block>
+  <block id="fb35cdd7029fec15aadbdddd879fa161" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block> Quali sono le prossime novità?</block>
+  <block id="0d5e44db30a371573d3409dc5db80551" category="paragraph">Dopo aver configurato il servizio, ecco cosa fare in seguito.</block>
+  <block id="2dcdbb99022cfb6c4ef2bd327930b9d0" category="inline-link-macro">Esaminare lo stato della pianificazione della capacità</block>
+  <block id="ca8a749c1fbfddafb4179c330f1f70b6" category="list-text"><block ref="a331806f2b2936676e36463aed0c2570" category="inline-link-macro-rx"></block>.</block>
+  <block id="dbaae314ffc8b46919877d02b85696cb" category="inline-link-macro">Aggiungere capacità</block>
+  <block id="4dda7928bb232067460dae014f5d3c19" category="list-text"><block ref="3cb1671078737d4ecd8aac6c0e87e9e1" category="inline-link-macro-rx"></block>.</block>
+  <block id="3cf1c3e32dc7a64121e7f0ffa91d5c26" category="inline-link-macro">Tier cold data to cloud storage per liberare lo storage</block>
+  <block id="37b482b6cc26ff8a32f155b4aebfe936" category="list-text"><block ref="c4c4008903c7bf31faac3cec39c9af2b" category="inline-link-macro-rx"></block>.</block>
+  <block id="9da433a276b8c58aa7c1c0c04ac7063c" category="inline-link-macro">Se si desidera, impostare i promemoria da controllare di nuovo</block>
+  <block id="a2e5f6092d9ac64bb72c17d7c802989e" category="list-text"><block ref="13cddad928a54274073f8e0ed02030a0" category="inline-link-macro-rx"></block>.</block>
+  <block id="243263104c829e77835d632f591230d5" category="summary">Prima di aprire un caso di supporto con il supporto tecnico NetApp, è necessario aggiungere un account NetApp Support Site a BlueXP e registrarsi per il supporto.</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Registrati per ricevere assistenza</block>
+  <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">Prima di aprire un caso di supporto con il supporto tecnico NetApp, è necessario aggiungere un account NetApp Support Site (NSS) a BlueXP e quindi registrarsi per il supporto.</block>
+  <block id="0375f4855be072c7d856a0233cc21de9" category="section-title">Supporto per le soluzioni cloud provider</block>
+  <block id="be845c219bb74b14349ffa6e27e7aef3" category="paragraph">Per il supporto tecnico sulle seguenti soluzioni di cloud provider integrate in BlueXP, fare riferimento alla sezione "Assistenza" nella documentazione BlueXP relativa a tale prodotto.</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX per ONTAP</block>
+  <block id="5bf5309465f91318228a7f956b826348" category="list-text"><block ref="5bf5309465f91318228a7f956b826348" category="inline-link-macro-rx"></block></block>
+  <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
+  <block id="0e2bc9c853e0af52ead12823c025e58b" category="list-text"><block ref="0e2bc9c853e0af52ead12823c025e58b" category="inline-link-macro-rx"></block></block>
+  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service per Google Cloud</block>
+  <block id="02efcbea18b9485a78a41871dce1e64d" category="list-text"><block ref="02efcbea18b9485a78a41871dce1e64d" category="inline-link-macro-rx"></block></block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Panoramica sulla registrazione del supporto</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Esistono due forme di registrazione per attivare i diritti di supporto:</block>
+  <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">Registrazione dell'abbonamento al supporto per l'ID account BlueXP (il numero di serie a 20 cifre 960xxxxxxxxx nella pagina Support Resources di BlueXP).</block>
+  <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">Questa funzione funge da unico ID di abbonamento al supporto per qualsiasi servizio all'interno di BlueXP. Ogni abbonamento al supporto a livello di account BlueXP deve essere registrato.</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">Registrazione dei numeri di serie Cloud Volumes ONTAP associati a un abbonamento nel mercato del provider cloud (si tratta di numeri di serie 909201xxxxxxxx a 20 cifre).</block>
+  <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">Questi numeri seriali sono comunemente denominati _numeri seriali PAYGO_ e vengono generati da BlueXP al momento dell'implementazione di Cloud Volumes ONTAP.</block>
+  <block id="9d4125dc88bb9db6eb4be939905761ce" category="paragraph">La registrazione di entrambi i tipi di numeri di serie offre funzionalità come l'apertura di ticket di supporto e la generazione automatica dei casi.</block>
+  <block id="98bc603dcb6d5a57d540b13b541fa41a" category="paragraph">La modalità di registrazione dipende dal fatto che tu sia un cliente o un partner nuovo o esistente.</block>
+  <block id="e5646198d2e01aab2cec9ef946f9c53a" category="list-text">Cliente o partner esistente</block>
+  <block id="76928f97884b4332b83c5be9b99d93d3" category="paragraph">In qualità di cliente o partner NetApp esistente, puoi utilizzare il tuo account SSO NetApp Support Site (NSS) per eseguire queste registrazioni di cui sopra. Nel Support Dashboard, BlueXP fornisce una pagina *NSS Management* dove è possibile aggiungere il proprio account NSS. Una volta aggiunto l'account NSS, BlueXP registra automaticamente questi numeri di serie.</block>
+  <block id="4e6af37fb81d50483d832d4de6e2b26a" category="inline-xref">Scopri come aggiungere il tuo account NSS</block>
+  <block id="8d80298f51b7ff2da78e26e60195c7a3" category="paragraph"><block ref="cbec7c1a4a2acff5e84457dd449ac01d" category="inline-xref-macro-rx"></block>.</block>
+  <block id="1c91f3adc957364cb01d33e100ee1ea3" category="list-text">Novità di NetApp</block>
+  <block id="679f2cae4657f177cc89458d49c97e5f" category="paragraph">Se sei nuovo di NetApp, devi completare una registrazione unica del numero di serie del tuo ID account BlueXP sul sito di registrazione del supporto di NetApp. Una volta completata la registrazione e creato un nuovo account NSS, puoi utilizzare questo account in BlueXP per effettuare la registrazione automatica.</block>
+  <block id="00fc9d0c515c69ea2c368521453d982e" category="inline-xref">Scopri come registrarti a NetApp</block>
+  <block id="97454ce87333f7ebd50ee38b8126fb39" category="paragraph"><block ref="37544f11913357c4e8c8a4ec607ae247" category="inline-xref-macro-rx"></block>.</block>
+  <block id="a92ec860f505b318fd0f0eba6165d607" category="section-title">Aggiungere un account NSS a BlueXP</block>
+  <block id="f2575f6d19024f7288cf78d7dc5b3db9" category="paragraph">Support Dashboard consente di aggiungere e gestire gli account NetApp Support Site da utilizzare con BlueXP.</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">Se disponi di un account a livello di cliente, puoi aggiungere uno o più account NSS.</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Se disponi di un account partner o reseller, puoi aggiungere uno o più account NSS, ma non possono essere aggiunti insieme agli account a livello di cliente.</block>
+  <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">Nella parte superiore destra della console BlueXP, fare clic sull'icona Guida e selezionare *supporto*.</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Schermata del menu Help (Guida) in cui Support (Assistenza) è la prima opzione elencata</block>
+  <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">Fare clic su *Gestione NSS &gt; Aggiungi account NSS*.</block>
+  <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">Quando richiesto, fare clic su *Continue* per essere reindirizzati a una pagina di accesso Microsoft.</block>
+  <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp utilizza Microsoft Azure Active Directory come provider di identità per i servizi di autenticazione specifici per il supporto e la concessione di licenze.</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">Nella pagina di accesso, fornire l'indirizzo e-mail e la password registrati del NetApp Support Site per eseguire il processo di autenticazione.</block>
+  <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">Queste azioni consentono a BlueXP di utilizzare il tuo account NSS per download di licenze, verifica dell'aggiornamento software e registrazioni di supporto future.</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Tenere presente quanto segue:</block>
+  <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">L'account NSS deve essere un account a livello di cliente (non un account guest o temporaneo). Puoi avere più account NSS a livello di cliente.</block>
+  <block id="27387009488fe78dcc7cb7e3e432792f" category="list-text">Se si tratta di un account di livello partner, può essere presente un solo account NSS. Se si tenta di aggiungere account NSS a livello di cliente ed esiste un account a livello di partner, viene visualizzato il seguente messaggio di errore:</block>
+  <block id="d926847e4634e19a1aa7358becc0fa27" category="paragraph">"Il tipo di cliente NSS non è consentito per questo account, in quanto esistono già utenti NSS di tipo diverso."</block>
+  <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">Lo stesso vale se si dispone di account NSS a livello di cliente preesistenti e si tenta di aggiungere un account a livello di partner.</block>
+  <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">Una volta effettuato l'accesso, NetApp memorizzerà il nome utente NSS.</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">Un'icona di tre punti orizzontali</block>
+  <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">Si tratta di un ID generato dal sistema che viene mappato all'e-mail. Nella pagina *NSS Management*, è possibile visualizzare l'e-mail da <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu.</block>
+  <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">Se è necessario aggiornare i token delle credenziali di accesso, è disponibile anche l'opzione *Update Credentials* (Aggiorna credenziali) in <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu.</block>
+  <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Questa opzione richiede di effettuare nuovamente l'accesso. Il token per questi account scade dopo 90 giorni. Verrà inviata una notifica per avvisare l'utente.</block>
+  <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">Registrati con NetApp</block>
+  <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">La modalità di registrazione al supporto NetApp dipende dal fatto che si disponga già di un account NetApp Support Site (NSS).</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">Cliente esistente con un account NSS</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">Se sei un cliente NetApp con un account NSS, devi semplicemente registrarti per ricevere supporto tramite BlueXP.</block>
+  <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">Se non l'hai ancora fatto, Aggiungi il tuo account NSS a BlueXP.</block>
+  <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">Nella pagina *risorse*, fare clic su *Registra per il supporto*.</block>
+  <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">Una schermata che mostra il numero di serie di un account e l'opzione Registra per il supporto</block>
+  <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">Cliente esistente ma nessun account NSS</block>
+  <block id="cc1d3c161bcf25e6445c2fc771647849" category="paragraph">Se sei già un cliente NetApp con licenze e numeri di serie esistenti ma _no_ account NSS, devi solo creare un account NSS.</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">Modulo di registrazione per l'utente del sito di supporto NetApp</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">Creare un account NetApp Support Site completando il<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">Assicurarsi di selezionare il livello utente appropriato, che in genere è *cliente/utente finale NetApp*.</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">Assicurarsi di copiare il numero di serie dell'account BlueXP (960xxxx) utilizzato in precedenza per il campo del numero di serie. In questo modo, l'elaborazione dell'account sarà più rapida.</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">Novità di NetApp</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">Se sei nuovo di NetApp e non disponi di un account NSS, segui i passaggi riportati di seguito.</block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">Individuare il numero di serie dell'ID account nella pagina Support Registration (registrazione supporto).</block>
+  <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">Sito per la registrazione del supporto NetApp</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">Selezionare<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> E selezionare *non sono un cliente NetApp registrato*.</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">Compilare i campi obbligatori (con asterischi rossi).</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">Nel campo *Product Line*, selezionare *Cloud Manager*, quindi selezionare il provider di fatturazione appropriato.</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">Copia il numero di serie del tuo account dal punto 2 precedente, completa il controllo di sicurezza, quindi conferma di aver letto la Global Data Privacy Policy di NetApp.</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">Viene immediatamente inviata un'e-mail alla casella di posta fornita per finalizzare questa transazione sicura. Controllare le cartelle di spam se l'e-mail di convalida non arriva in pochi minuti.</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">Confermare l'azione dall'interno dell'e-mail.</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">La conferma invia la tua richiesta a NetApp e ti consiglia di creare un account NetApp Support Site.</block>
+  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">Assicurarsi di copiare il numero di serie dell'account (960xxxx) utilizzato in precedenza per il campo del numero di serie. In questo modo, l'elaborazione dell'account sarà più rapida.</block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Al termine</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp dovrebbe contattarti durante questo processo. Si tratta di un esercizio di assunzione per i nuovi utenti.</block>
+  <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">Una volta ottenuto l'account NetApp Support Site, è possibile accedere a BlueXP per aggiungere questo account NSS per le registrazioni future.</block>
+  <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp fornisce supporto per BlueXP in diversi modi. Sono disponibili opzioni complete di supporto autonomo gratuito 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include il supporto tecnico remoto via web ticketing.</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Richiedi assistenza</block>
+  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp fornisce supporto per BlueXP e i suoi servizi cloud in diversi modi. Sono disponibili opzioni complete di supporto autonomo gratuito 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include il supporto tecnico remoto via web ticketing.</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Utilizzare le opzioni di supporto automatico</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Queste opzioni sono disponibili gratuitamente, 24 ore su 24, 7 giorni su 7:</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Knowledge base</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Cercare nella Knowledge base di BlueXP articoli utili per la risoluzione dei problemi.</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Community</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">Unisciti alla community BlueXP per seguire le discussioni in corso o crearne di nuove.</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Documentazione</block>
+  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">La documentazione BlueXP attualmente visualizzata.</block>
+  <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">Mailto:ng-cloudmanager-feedback@netapp.com[email di feedback]</block>
+  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">Diamo valore al tuo contributo. Invia un feedback per aiutarci a migliorare BlueXP.</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Crea un caso con il supporto NetApp</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Oltre alle opzioni di supporto autonomo sopra descritte, puoi collaborare con uno specialista del supporto NetApp per risolvere eventuali problemi dopo l'attivazione del supporto.</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Prima di iniziare</block>
+  <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">Scopri come registrarti per il supporto</block>
+  <block id="1012a287397c66025d7748edf06a36e2" category="paragraph">Per utilizzare la funzione *Crea un caso*, è necessario prima eseguire una registrazione una tantum del numero di serie dell'ID account BlueXP (ad es. 960xxxx) con NetApp. <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>.</block>
+  <block id="6254a4afeeb76765a127fe74d31c1b3d" category="list-text">In BlueXP, fare clic su *Guida &gt; supporto*.</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Nella pagina *risorse*, scegliere una delle opzioni disponibili in supporto tecnico:</block>
+  <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">Fai clic su *Chiamaci* per parlare con qualcuno al telefono. Viene visualizzata una pagina su netapp.com che elenca i numeri di telefono che è possibile chiamare.</block>
+  <block id="5be2e1dfe4bf215289731df45ec8157b" category="list-text">Fare clic su *Crea un caso* per aprire un ticket con uno specialista del supporto NetApp:</block>
+  <block id="b53e0a259f4a0c8e7da80d6c94e26c84" category="list-text">*NetApp Support Site account*: Selezionare l'account NSS applicabile associato alla persona che apre il caso di supporto. Questa persona sarà il contatto principale a cui NetApp dovrà contattare, oltre alle e-mail aggiuntive fornite di seguito.</block>
+  <block id="d950fb930d7f7e6bfdda1b91b4639a02" category="paragraph">Se non vedi il tuo account NSS, puoi accedere alla scheda *NSS Management* nella sezione Support di BlueXP per aggiungerlo.</block>
+  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Servizio*: Selezionare il servizio a cui è associato il problema. Ad esempio, BlueXP quando si tratta di un problema di supporto tecnico relativo a flussi di lavoro o funzionalità all'interno del servizio.</block>
+  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*Ambiente di lavoro*: Se applicabile allo storage, selezionare *Cloud Volumes ONTAP* o *on-premise* e quindi l'ambiente di lavoro associato.</block>
+  <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">L'elenco degli ambienti di lavoro rientra nell'ambito dell'account, dell'area di lavoro e del connettore BlueXP selezionato nel banner superiore del servizio.</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*Priorità caso*: Scegliere la priorità per il caso, che può essere bassa, Media, alta o critica.</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">Per ulteriori informazioni su queste priorità, passare il mouse sull'icona delle informazioni accanto al nome del campo.</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*Descrizione del problema*: Fornire una descrizione dettagliata del problema, inclusi eventuali messaggi di errore o procedure di risoluzione dei problemi che sono state eseguite.</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*Indirizzi e-mail aggiuntivi*: Inserisci indirizzi e-mail aggiuntivi se desideri informare qualcun altro del problema.</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Allegato (opzionale)*: Carica fino a cinque allegati, uno alla volta.</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Gli allegati sono limitati a 25 MB per file. Sono supportate le seguenti estensioni di file: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx e csv.</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Schermata del modulo Crea un caso che consente di creare un caso con il supporto NetApp.</block>
+  <block id="a2ff30886e1baf1e7d5045b5fc24f5b9" category="paragraph"><block ref="a2ff30886e1baf1e7d5045b5fc24f5b9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Viene visualizzata una finestra a comparsa con il numero del caso di supporto. Uno specialista del supporto NetApp esaminerà il tuo caso e ti contatterà al più presto.</block>
+  <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">Per una cronologia dei casi di supporto, fare clic su *Impostazioni &gt; Cronologia* e cercare le azioni denominate "Crea caso di supporto". Un pulsante all'estrema destra consente di espandere l'azione per visualizzare i dettagli.</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">È possibile che venga visualizzato il seguente messaggio di errore quando si tenta di creare un caso:</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"Non sei autorizzato a creare un caso per il servizio selezionato"</block>
+  <block id="fa6b601b2fb4e3e5c7b466ecb8bd70ac" category="paragraph">Questo errore potrebbe indicare che l'account NSS e la società di registrazione a cui è associato non sono la stessa società di registrazione per il numero di serie dell'account BlueXP (ad es. 960xxxx) o il numero di serie dell'ambiente di lavoro. Puoi consultare l'elenco degli account NSS nella parte superiore del modulo *Crea un caso* per trovare la corrispondenza giusta oppure richiedere assistenza utilizzando una delle seguenti opzioni:</block>
+  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">Utilizza la chat integrata nel prodotto</block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">Inviare un caso non tecnico all'indirizzo<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">Gestire i casi di supporto (anteprima)</block>
+  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">È possibile visualizzare e gestire i casi di supporto attivi e risolti direttamente da BlueXP. Puoi gestire i casi associati al tuo account NSS e alla tua azienda.</block>
+  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">La gestione del caso è disponibile come anteprima. Intendiamo perfezionare questa esperienza e aggiungere miglioramenti alle prossime release. Inviaci un feedback utilizzando la chat in-product.</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">La dashboard di gestione dei casi nella parte superiore della pagina offre due visualizzazioni:</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">La vista a sinistra mostra il totale dei casi aperti negli ultimi 3 mesi dall'account NSS dell'utente fornito.</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">La vista a destra mostra il totale dei casi aperti negli ultimi 3 mesi a livello aziendale in base all'account NSS dell'utente.</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">I risultati della tabella riflettono i casi correlati alla vista selezionata.</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">È possibile aggiungere o rimuovere colonne di interesse e filtrare il contenuto di colonne come priorità e Stato. Altre colonne offrono funzionalità di ordinamento.</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">Per ulteriori informazioni, consulta la procedura riportata di seguito.</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">A livello di caso, offriamo la possibilità di aggiornare le note del caso o chiudere un caso che non è già in stato chiuso o in attesa di chiusura.</block>
+  <block id="34b1296d31cefa72dae9b3a364b1f444" category="list-text">Fare clic su *Gestione casi* e, se richiesto, aggiungere l'account NSS a BlueXP.</block>
+  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">La pagina *Gestione del caso* mostra i casi aperti relativi all'account NSS associato all'account utente BlueXP. Si tratta dello stesso account NSS visualizzato nella parte superiore della pagina *gestione NSS*.</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">Se si desidera, modificare le informazioni visualizzate nella tabella:</block>
+  <block id="27635a52fe4c34c39ffc6430f4244ec6" category="list-text">In *Organization's Cases* (casi dell'organizzazione), fare clic su *View* (Visualizza) per visualizzare tutti i casi associati alla società.</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">Modificare l'intervallo di date scegliendo un intervallo di date esatto o scegliendo un intervallo di tempo diverso.</block>
+  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">Una schermata dell'opzione sopra la tabella nella pagina di gestione del caso che consente di scegliere un intervallo di date esatto o gli ultimi 7 giorni, 30 giorni o 3 mesi.</block>
+  <block id="7fcba8aeefa9960d3fc3fa08b360ba2e" category="paragraph"><block ref="7fcba8aeefa9960d3fc3fa08b360ba2e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">Filtrare il contenuto delle colonne.</block>
+  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">Schermata dell'opzione di filtro nella colonna Status (Stato) che consente di filtrare i casi che corrispondono a uno stato specifico, ad esempio attivo o chiuso.</block>
+  <block id="37709be3a43df07d5975287545d0ba12" category="paragraph"><block ref="37709be3a43df07d5975287545d0ba12" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">L'icona più visualizzata nella tabella</block>
+  <block id="1614dc8e47c0492434152c990d6c1040" category="list-text">Modificare le colonne visualizzate nella tabella facendo clic su <block ref="effeab06130cddc8360822b2b706805b" category="inline-image-macro-rx" type="image"></block> e quindi scegliere le colonne che si desidera visualizzare.</block>
+  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">Una schermata che mostra le colonne che è possibile visualizzare nella tabella.</block>
+  <block id="5de408d7cbad49634fb25f9047498132" category="paragraph"><block ref="5de408d7cbad49634fb25f9047498132" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">Un'icona con tre punti che compare nell'ultima colonna della tabella</block>
+  <block id="98efef1c8a47ed5791b41944e8ff4ec2" category="list-text">Gestire un caso esistente facendo clic su <block ref="a0b152b50a56901a75affebabc26ed61" category="inline-image-macro-rx" type="image"></block> e selezionando una delle opzioni disponibili:</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*Visualizza caso*: Visualizza tutti i dettagli relativi a un caso specifico.</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Aggiorna note sul caso*: Fornisci ulteriori dettagli sul problema oppure seleziona *carica file* per allegare fino a un massimo di cinque file.</block>
+  <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*Chiudi caso*: Fornisci i dettagli sul motivo per cui stai chiudendo il caso e fai clic su *Chiudi caso*.</block>
+  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Una schermata che mostra le azioni che è possibile eseguire dopo aver selezionato il menu nell'ultima colonna della tabella.</block>
+  <block id="e9a5c374fb47ed2ae5cc6108fb36d829" category="paragraph"><block ref="e9a5c374fb47ed2ae5cc6108fb36d829" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">Le limitazioni note identificano piattaforme, dispositivi o funzioni non supportate da questa release del servizio o che non interagiscono correttamente con esso.</block>
+  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">Limitazioni</block>
+  <block id="ae0e6a9591b0ba940ca472563fff152d" category="summary">L'efficienza economica di BlueXP identifica le risorse con capacità bassa corrente o prevista e fornisce consigli sul tiering dei dati o sulla capacità aggiuntiva (per i sistemi AFF).</block>
+  <block id="490414e0366b091220802d406e52c076" category="doc">Novità</block>
+  <block id="c24b642feb1fabfe18bbee711c803f24" category="paragraph">Scopri le novità dell'efficienza economica di BlueXP.</block>
+  <block id="88c49608e723add593f5becc8bd9a968" category="section-title">02 aprile 2023</block>
+  <block id="35c28a4f1250fc5c59dd5bfa5d9993ce" category="paragraph">Il nuovo servizio di efficienza economica BlueXP identifica le risorse storage con capacità bassa corrente o prevista e fornisce consigli sul tiering dei dati o sulla capacità aggiuntiva per i sistemi AFF on-premise.</block>
+  <block id="345d0e0aeae5ae7cbf8cdd1fc138e5e6" category="inline-link-macro">Scopri di più sull'efficienza economica di BlueXP</block>
+  <block id="838d01d8bf08e23ff670a400ad2cb368" category="paragraph"><block ref="c4b58b1c24fbcd13ec6df8ee9e6c3a23" category="inline-link-macro-rx"></block>.</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Note legali</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Le note legali forniscono l'accesso a dichiarazioni di copyright, marchi, brevetti e altro ancora.</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Copyright</block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">Marchi</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NETAPP, il logo NETAPP e i marchi elencati nella pagina dei marchi NetApp sono marchi di NetApp, Inc. Altri nomi di società e prodotti potrebbero essere marchi dei rispettivi proprietari.</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">Brevetti</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">Un elenco aggiornato dei brevetti di proprietà di NetApp è disponibile all'indirizzo:</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">Direttiva sulla privacy</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Open source</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">I file di avviso forniscono informazioni sul copyright e sulle licenze di terze parti utilizzate nel software NetApp.</block>
+  <block id="d171b7e73c5f2dfd5aa6af3cf856c062" category="summary">Il servizio NetApp BlueXP Economic Efficiency Capacity Planning utilizza l'ai per prevedere la crescita dei dati per agevolare il processo di pianificazione.</block>
+  <block id="55d23e178d63a7dfa5b590a6cfdc18fb" category="doc">Esaminare e risolvere i problemi di capacità</block>
+  <block id="cee6750d0d4e5f1ebf12ff5962c2cc05" category="paragraph">La pianificazione della capacità implica l'identificazione di aree a bassa capacità nel tuo ambiente, sia attuali che previste. L'efficienza economica di BlueXP utilizza l'intelligenza artificiale per prevedere la crescita dei dati e contribuire al processo di pianificazione. Il servizio di efficienza economica identifica le aree a bassa capacità del tuo ambiente e fornisce consigli su come risolvere i problemi.</block>
+  <block id="15ff24e1dff620c1df51b9d6cb48a073" category="paragraph">Utilizzando l'efficienza economica di BlueXP, è possibile raggiungere questi obiettivi:</block>
+  <block id="2aeee6306a492b96e1d8d773a16fa4ee" category="list-text"><block ref="2aeee6306a492b96e1d8d773a16fa4ee" category="inline-link-macro-rx"></block></block>
+  <block id="2ca27275f5817357f9b49fd4c102cd3c" category="list-text"><block ref="2ca27275f5817357f9b49fd4c102cd3c" category="inline-link-macro-rx"></block></block>
+  <block id="80b117d13aeb1c0337cca44c4f432522" category="inline-link-macro">Tier cold data to cloud storage e liberare storage</block>
+  <block id="6cb6b275b6a21c610984fdd0576d0985" category="list-text"><block ref="6cb6b275b6a21c610984fdd0576d0985" category="inline-link-macro-rx"></block></block>
+  <block id="05540742fefd5843712472ea58001fdc" category="inline-link-macro">Selezionare NO action (nessuna azione) e impostare i promemoria da controllare di nuovo</block>
+  <block id="6aa45f993ae45f131003be16c292fcd5" category="list-text"><block ref="6aa45f993ae45f131003be16c292fcd5" category="inline-link-macro-rx"></block></block>
+  <block id="8996677d91a175f8986c9fb086d0a019" category="summary">Invece di aggiungere dati cold di capacità o Tier, puoi scegliere di non eseguire alcuna azione in questo momento e impostare promemoria per controllare di nuovo dopo 30, 60 o 90 giorni.</block>
+  <block id="3244b6844658e5e33144f6b7eae011e7" category="doc">Imposta promemoria per controllare di nuovo</block>
+  <block id="fbb1f938c9f1ccb40c31c54f15fc89ea" category="list-text">Dalla barra di navigazione a sinistra di BlueXP, selezionare *Governance* &gt; *Economic Efficiency* &gt; *Capacity planning*.</block>
+  <block id="516d28f53c7dff8d7f269aaa4d14b40e" category="list-text">Selezionare *Evaluate Storage Options* per la risorsa.</block>
+  <block id="cdd7417e4a2578a1e8718f7130de6a7d" category="list-text">Selezionare *Nessuna azione richiesta*.</block>
+  <block id="d016487b506e896dfc8d608305699323" category="list-text">Scegliere quando si desidera ricevere una nuova notifica di un potenziale problema di bassa capacità: 30, 60 o 90 giorni.</block>
+  <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">Selezionare *Salva*.</block>
+  <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Risultato</block>
+  <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">Trascorso questo tempo, il rischio viene nuovamente visualizzato nell'elenco dei rischi.</block>
+  <block id="a53148ee8712975fc57be46589bc8da7" category="summary">Il servizio di efficienza economica fornisce consigli per i sistemi AFF sulla base della crescita dei dati prevista. Puoi accettare la previsione o inserire la tua previsione. In base a ciò, il servizio presenta suggerimenti che soddisfano le proiezioni di crescita della capacità e sono più ottimali per la configurazione delle risorse.</block>
+  <block id="20d6f49b527c941ea400d33bec3ddfdc" category="paragraph">L'efficienza economica di BlueXP fornisce consigli per i sistemi AFF sulla base della crescita dei dati prevista. Puoi accettare la previsione o inserire la tua previsione. In base a ciò, il servizio presenta suggerimenti che soddisfano le proiezioni di crescita della capacità e sono più ottimali per la configurazione delle risorse.</block>
+  <block id="d61c6fe6373ce09cb70846c4b4009e46" category="paragraph">Uno dei suggerimenti potrebbe essere l'aggiunta di capacità aggiungendo gli shelf al numero di serie esistente.</block>
+  <block id="417aeeb6b45f27026b8f5da134cf808b" category="paragraph">Puoi inviare facilmente il consiglio come richiesta di preventivo o richiesta di opzioni alternative al team di vendita NetApp.</block>
+  <block id="dfa90aeb29550058022b6b79dc2fcab1" category="list-text">Selezionare *Add Capacity* (Aggiungi capacità).</block>
+  <block id="acdb4b15420328ba01cc67b594eb95b8" category="paragraph">Vengono visualizzati i dati della risorsa.</block>
+  <block id="1e9b75d12e4760def37dda99030a043c" category="list-text">Esamina previsioni, utilizzo, trend di latenza e trend IOPS.</block>
+  <block id="53bfb6623aa4226a9a7abd1da46938ee" category="list-text">Per ottenere consigli, selezionare *Evaluate Storage Options*.</block>
+  <block id="d7e392b076d13c0fd051678992febd6c" category="paragraph">La pagina Definisci i requisiti di capacità mostra una previsione di capacità corrente e prevista e uno storage add-on consigliato in base alla crescita prevista.</block>
+  <block id="52257f7d68cfb460969ce6a9796f903b" category="list-text">Selezionare una delle opzioni a destra:</block>
+  <block id="6187d9adebef354c0e3c4ef8a13e027e" category="list-text">*Consigliare lo storage add-on in base alla crescita prevista* e aggiungere facoltativamente una percentuale di buffer.</block>
+  <block id="009556b430eab0cdc17563ad46eedeac" category="list-text">*Consigliare lo storage add-on basato sulla crescita personalizzata dei dati* e inserire la capacità add-on totale desiderata, non quella consigliata.</block>
+  <block id="136dc09835924029e4299fa28f17233d" category="list-text">Selezionare *continua*.</block>
+  <block id="9a16bd048caa65ea73d207e4083cbacf" category="paragraph">Viene visualizzata una serie di raccomandazioni.</block>
+  <block id="e88ed4f9dd2ff595f10be46a61df3530" category="list-text">Esaminare i consigli per i numeri di serie delle risorse selezionati.</block>
+  <block id="365d382b2d9ecca9b0d40171c69b38ff" category="list-text">Effettuare una delle seguenti operazioni:</block>
+  <block id="a5ccb54a019fc87956fb112e46dae4d3" category="list-text">Per accettare il suggerimento, selezionare *Avanti*. La richiesta viene inviata a un esperto di vendita NetApp che collaborerà con te per ottenere la capacità aggiuntiva di cui hai bisogno.</block>
+  <block id="4d74d3615d332cc225fe9db9f1ca1ac7" category="list-text">Per richiedere diverse opzioni, selezionare *Richiedi opzioni alternative*, inserire la richiesta e selezionare *Invia e-mail*. Viene inviata un'e-mail a un esperto di vendita NetApp che ti contatterà per soddisfare i requisiti di capacità.</block>
+  <block id="528798800bb18a55c8e56e2808e35e26" category="list-text">Esaminare la richiesta di capacità aggiuntiva e selezionare *Confirm and Submit* (Conferma e invia).</block>
+  <block id="d452d8a47d94ca7bfae59d96b15e9eae" category="paragraph">Viene visualizzata la pagina Capacity Planning Status (Stato pianificazione capacità).</block>
+  <block id="9f5f33b1411cb7c6db0f15c4c16a6ab2" category="list-text">Esaminare lo stato nella pagina Capacity Planning Status (Stato pianificazione capacità).</block>
+  <block id="fbd53e396987285cf235247a34844e9e" category="summary">Se i cluster sono attualmente inferiori o si prevede che siano inferiori alla soglia del 70% di capacità, il servizio di efficienza economica li identifica come risorse a bassa capacità e ti avvisa.</block>
+  <block id="b65cfef4d4fde75189a1e74b65a77ec0" category="paragraph">Se le risorse di storage nel tuo ambiente sono attualmente inferiori o si prevede che siano inferiori alla soglia del 90% di capacità, il servizio di efficienza economica le identifica come risorse a bassa capacità e ti avvisa. Inoltre, il servizio di efficienza economica fornisce consigli sulla necessità di tierare i dati o ottenere capacità aggiuntiva.</block>
+  <block id="837d5e9f2c5cbcdab7649199e74aeb6f" category="paragraph">È possibile esaminare i seguenti tipi di dati per agevolare la risoluzione dei problemi di capacità.</block>
+  <block id="419f3742e6de8e0ec4b22cce005e7630" category="list-text">Piattaforma</block>
+  <block id="47e9bbb6c6753120f1dd00ed48d96e49" category="list-text">Paese in cui si trova la risorsa</block>
+  <block id="0df07e1f7ae3afc987ed03150806ffab" category="list-text">Capacità corrente e prevista per mese</block>
+  <block id="a513bb90ec1f77a332a7def969448b65" category="list-text">Utilizzo della capacità e percentuale</block>
+  <block id="d94ea82b5ee3ae0f84fea0c15f897121" category="list-text">Trend di latenza</block>
+  <block id="0b01356b625dcd69b61907497fa47842" category="list-text">Tendenze IOPS</block>
+  <block id="393020d67c4695c30e4112c74946b74b" category="list-text">Scegliere una delle seguenti opzioni:</block>
+  <block id="91c71bf1224b1e14a6c1f681b8177e35" category="inline-link-macro">aggiunta di capacità</block>
+  <block id="d9883c7f55a9f89fbe625003d35013d9" category="list-text">*Aggiungi capacità*: Continua <block ref="da789fd2f6c7c3e80b54e962404e89e8" category="inline-link-macro-rx"></block>.</block>
+  <block id="9d9adc1e6779b1d49c9746d8b1715ad4" category="inline-link-macro">tiering dei dati cold nello storage cloud e liberazione dello storage</block>
+  <block id="47141754b699410733fa9410d0da24bd" category="list-text">*Dati cold Tier*: Continua <block ref="e76e1661c872ce87a3a0c42e10da0c33" category="inline-link-macro-rx"></block>.</block>
+  <block id="7da2d43820b3b6996f9bf72d06cd62d2" category="inline-link-macro">selezione di nessuna azione e impostazione di promemoria da controllare di nuovo</block>
+  <block id="58a0e9ebd5e083225a07bd151e8177e1" category="list-text">*Nessuna azione necessaria*: Continua <block ref="6ab97855d646364f9472f51352902b2e" category="inline-link-macro-rx"></block>.</block>
+  <block id="2b787d5a3ddc4d29ecaec24185257f94" category="summary">Il servizio di efficienza economica BlueXP offre consigli basati sulla crescita dei dati prevista. Puoi accettare la previsione o inserire la tua previsione. In base a ciò, il servizio presenta suggerimenti che soddisfano la crescita della capacità prevista e sono più ottimali per la configurazione delle risorse. Uno dei consigli potrebbe essere il Tier cold data to cloud storage per liberare capacità. Questo suggerimento avvia la connessione a NetApp Cloud Tiering, un altro servizio BlueXP.</block>
+  <block id="ea29270a68ffb033810e16bff4b5fd66" category="paragraph">L'efficienza economica di BlueXP offre consigli basati sulla crescita dei dati prevista. Puoi accettare la previsione o inserire la tua previsione. In base a ciò, il servizio presenta suggerimenti che soddisfano la crescita della capacità prevista e sono più ottimali per la configurazione delle risorse di storage. Uno dei consigli potrebbe essere il Tier cold data to cloud storage per liberare capacità. Questo suggerimento avvia la connessione a NetApp BlueXP Tiering (Cloud Tiering), un altro servizio BlueXP.</block>
+  <block id="f43a34ab4337c16e506bc4b4470f2e5a" category="paragraph">Da qui, è possibile eseguire il tiering dei dati e tornare facilmente all'efficienza economica di BlueXP per intervenire su altri sistemi.</block>
+  <block id="6dfd2eb5249f90aef474d30566fea034" category="paragraph">Il processo di tiering del cloud include i seguenti processi:</block>
+  <block id="9af7e4f81c745160ce0a259f7f43f225" category="list-text">Implementare un connettore</block>
+  <block id="6cb8e477737f0dd67265264d19cc8455" category="list-text">Individuare il cluster</block>
+  <block id="cc7adfd9e095c31e1c7aa3f8cdf99879" category="list-text">Impostare il tiering nel cloud</block>
+  <block id="b974e26cc3ab74dbc7ba9aecae13a829" category="list-text">Selezionare *Tier Cold Data*.</block>
+  <block id="b1c12bf1b4a873a9ed5a66b14f7cd39d" category="list-text">I passaggi successivi dipendono dal fatto che sia già stato implementato un connettore BlueXP e che il cluster sia stato scoperto:</block>
+  <block id="b19f531963f3253bc079919cec81fe72" category="inline-link">Come creare un connettore</block>
+  <block id="7be96b4ca359bc2359930aa3a6d438b4" category="list-text">Se è necessario implementare BlueXP Connector, consultare la documentazione BlueXP che descrive<block ref="f37c27b416a77e228b720482dd851ebe" category="inline-link-rx"></block>. In caso contrario, se il connettore è già stato implementato, l'opzione di implementazione del connettore non viene visualizzata.</block>
+  <block id="772c39bb5555b5d35ca544c93da0583f" category="list-text">Se il servizio deve rilevare il cluster, fare riferimento a.<block ref="6585a34a169ce9e8b8f4633a3f458722" category="inline-link-rx"></block>. In caso contrario, se il cluster è già stato rilevato, l'opzione per rilevare il cluster non viene visualizzata.</block>
+  <block id="b77b8d53b8f9ad06ff4f1c4f66ce0810" category="paragraph">L'efficienza economica di BlueXP avvia la connessione al servizio di tiering BlueXP.</block>
+  <block id="fc76487e321b8bd0278a190f0b8bd401" category="list-text">Selezionare *Aggiungi connettore*.</block>
+  <block id="cea9f928dfa7f018d5f69d0b3d5fa567" category="list-text">Scegli un provider cloud e seleziona *continua*.</block>
+  <block id="6b52a1aec285337477d1fef91d9efaf0" category="list-text">Selezionare *Continue* (continua) o *Skip to Deployment* (passa alla distribuzione).</block>
+  <block id="6fbd69f2466455027f39d7ed05855812" category="paragraph">Dopo aver implementato un connettore, BlueXP Tiering rileva il cluster, se non è già stato rilevato.</block>
+  <block id="51719535acedbf69edcd6974f73c1601" category="list-text">Una volta individuato il cluster, impostare il tiering.</block>
+  <block id="94cbb43a5cde5c6df8693b056bc08139" category="inline-link">Documentazione sui tiering BlueXP</block>
+  <block id="5b4267b046db5f03341b553b4e3771d1" category="paragraph">Per ulteriori informazioni sul tiering, fare riferimento a.<block ref="8eeb1fb0bf24f398f46bcf8e1cd7fe0b" category="inline-link-rx"></block>.</block>
+  <block id="eccbf2d005133654fdaff166311ce0c9" category="summary">La pianificazione della capacità è essenziale per evitare tempi di inattività non necessari a causa della bassa capacità dei sistemi. L'efficienza economica di BlueXP può aiutarti a identificare i cluster che mostrano una capacità bassa, esaminare i cluster per la capacità corrente e prevista e analizzare l'utilizzo della CPU, le performance IOPS e le performance di latenza per determinare le opportunità di correzione della capacità.</block>
+  <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">Efficienza economica di BlueXP</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Inizia subito</block>
+  <block id="be927a0c7de9e9a4deadb896c66cc674" category="sidebar">Novità dell'efficienza economica di BlueXP</block>
+  <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">Avvio rapido</block>
+  <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">Prerequisiti</block>
+  <block id="d4a184baad527c4d76864b1bd61040ed" category="sidebar">Accedi all'efficienza economica di BlueXP</block>
+  <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">FAQ</block>
+  <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">Utilizza l'efficienza economica di BlueXP</block>
+  <block id="bf094ea6ac295bf93e9ed9f735604ae0" category="sidebar">Esaminare lo stato della capacità</block>
+  <block id="bd427205be5a276d634b96c7cf7398b1" category="sidebar">Tier cold data to cloud storage</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blog e community</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Community NetApp</block>
+  <block id="e7719a97642051ee358e5d15cf1ab284" category="sidebar">Blog Cloud Tiering</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Webinar sul cloud</block>
+  <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">Documenti sull'efficienza economica di BlueXP</block>
+  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Tutta la documentazione BlueXP</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conoscenza e supporto</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Note di rilascio</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novità</block>
+</blocks>

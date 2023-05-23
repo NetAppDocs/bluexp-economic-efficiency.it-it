@@ -1,0 +1,58 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-add.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
+summary: Il servizio di efficienza economica fornisce consigli per i sistemi AFF sulla base della crescita dei dati prevista. Puoi accettare la previsione o inserire la tua previsione. In base a ciò, il servizio presenta suggerimenti che soddisfano le proiezioni di crescita della capacità e sono più ottimali per la configurazione delle risorse. 
+---
+= Aggiungere capacità
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+L'efficienza economica di BlueXP fornisce consigli per i sistemi AFF sulla base della crescita dei dati prevista. Puoi accettare la previsione o inserire la tua previsione. In base a ciò, il servizio presenta suggerimenti che soddisfano le proiezioni di crescita della capacità e sono più ottimali per la configurazione delle risorse.
+
+Uno dei suggerimenti potrebbe essere l'aggiunta di capacità aggiungendo gli shelf al numero di serie esistente.
+
+Puoi inviare facilmente il consiglio come richiesta di preventivo o richiesta di opzioni alternative al team di vendita NetApp.
+
+.Fasi
+. Dalla barra di navigazione a sinistra di BlueXP, selezionare *Governance* > *Economic Efficiency* > *Capacity planning*.
+. Selezionare *Evaluate Storage Options* per la risorsa.
+. Selezionare *Add Capacity* (Aggiungi capacità).
++
+Vengono visualizzati i dati della risorsa.
+
++
+** Esamina previsioni, utilizzo, trend di latenza e trend IOPS.
+** Per ottenere consigli, selezionare *Evaluate Storage Options*.
++
+La pagina Definisci i requisiti di capacità mostra una previsione di capacità corrente e prevista e uno storage add-on consigliato in base alla crescita prevista.
+
+
+
+. Selezionare una delle opzioni a destra:
++
+** *Consigliare lo storage add-on in base alla crescita prevista* e aggiungere facoltativamente una percentuale di buffer.
+** *Consigliare lo storage add-on basato sulla crescita personalizzata dei dati* e inserire la capacità add-on totale desiderata, non quella consigliata.
+
+
+. Selezionare *continua*.
++
+Viene visualizzata una serie di raccomandazioni.
+
+. Esaminare i consigli per i numeri di serie delle risorse selezionati.
+. Effettuare una delle seguenti operazioni:
++
+** Per accettare il suggerimento, selezionare *Avanti*. La richiesta viene inviata a un esperto di vendita NetApp che collaborerà con te per ottenere la capacità aggiuntiva di cui hai bisogno.
+** Per richiedere diverse opzioni, selezionare *Richiedi opzioni alternative*, inserire la richiesta e selezionare *Invia e-mail*. Viene inviata un'e-mail a un esperto di vendita NetApp che ti contatterà per soddisfare i requisiti di capacità.
+
+
+. Esaminare la richiesta di capacità aggiuntiva e selezionare *Confirm and Submit* (Conferma e invia).
++
+Viene visualizzata la pagina Capacity Planning Status (Stato pianificazione capacità).
+
+. Esaminare lo stato nella pagina Capacity Planning Status (Stato pianificazione capacità).
+

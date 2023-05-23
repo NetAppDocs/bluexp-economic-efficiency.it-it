@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-reminders.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: Invece di aggiungere dati cold di capacità o Tier, puoi scegliere di non eseguire alcuna azione in questo momento e impostare promemoria per controllare di nuovo dopo 30, 60 o 90 giorni. 
+---
+= Imposta promemoria per controllare di nuovo
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Invece di aggiungere dati cold di capacità o Tier, puoi scegliere di non eseguire alcuna azione in questo momento e impostare promemoria per controllare di nuovo dopo 30, 60 o 90 giorni.
+
+.Fasi
+. Dalla barra di navigazione a sinistra di BlueXP, selezionare *Governance* > *Economic Efficiency* > *Capacity planning*.
+. Selezionare *Evaluate Storage Options* per la risorsa.
+. Selezionare *Nessuna azione richiesta*.
+. Scegliere quando si desidera ricevere una nuova notifica di un potenziale problema di bassa capacità: 30, 60 o 90 giorni.
+. Selezionare *Salva*.
+
+
+.Risultato
+Trascorso questo tempo, il rischio viene nuovamente visualizzato nell'elenco dei rischi.

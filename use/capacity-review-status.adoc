@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-review-status.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning 
+summary: 'Se i cluster sono attualmente inferiori o si prevede che siano inferiori alla soglia del 70% di capacità, il servizio di efficienza economica li identifica come risorse a bassa capacità e ti avvisa.' 
+---
+= Esaminare lo stato della pianificazione della capacità
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Se le risorse di storage nel tuo ambiente sono attualmente inferiori o si prevede che siano inferiori alla soglia del 90% di capacità, il servizio di efficienza economica le identifica come risorse a bassa capacità e ti avvisa. Inoltre, il servizio di efficienza economica fornisce consigli sulla necessità di tierare i dati o ottenere capacità aggiuntiva.
+
+È possibile esaminare i seguenti tipi di dati per agevolare la risoluzione dei problemi di capacità.
+
+* Piattaforma
+* Paese in cui si trova la risorsa
+* Capacità corrente e prevista per mese
+* Utilizzo della capacità e percentuale
+* Trend di latenza
+* Tendenze IOPS
+
+
+.Fasi
+. Dalla barra di navigazione a sinistra di BlueXP, selezionare *Governance* > *Economic Efficiency* > *Capacity planning*.
+. Selezionare *Evaluate Storage Options* per la risorsa.
+. Scegliere una delle seguenti opzioni:
++
+** *Aggiungi capacità*: Continua link:../use/capacity-add.html["aggiunta di capacità"].
+** *Dati cold Tier*: Continua link:../use/capacity-tier-data.html["tiering dei dati cold nello storage cloud e liberazione dello storage"].
+** *Nessuna azione necessaria*: Continua link:../use/capacity-reminders.html["selezione di nessuna azione e impostazione di promemoria da controllare di nuovo"].
+
+
+

@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
+summary: 'L"efficienza economica di BlueXP identifica le risorse con capacità bassa corrente o prevista e fornisce consigli sul tiering dei dati o sulla capacità aggiuntiva (per i sistemi AFF).' 
+---
+= Novità
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Scopri le novità dell'efficienza economica di BlueXP.
+
+
+
+== 02 aprile 2023
+
+Il nuovo servizio di efficienza economica BlueXP identifica le risorse storage con capacità bassa corrente o prevista e fornisce consigli sul tiering dei dati o sulla capacità aggiuntiva per i sistemi AFF on-premise.
+
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["Scopri di più sull'efficienza economica di BlueXP"].

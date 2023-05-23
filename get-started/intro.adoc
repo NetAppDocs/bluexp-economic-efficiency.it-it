@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp 
+summary: 'Il servizio di efficienza economica BlueXP identifica i cluster con capacità bassa corrente o prevista e fornisce consigli su tiering dei dati o capacità aggiuntiva (per i sistemi AFF).' 
+---
+= Scopri l'efficienza economica di BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+La pianificazione della capacità è essenziale per evitare tempi di inattività non necessari a causa della bassa capacità dei sistemi. L'efficienza economica di BlueXP può aiutarti a ottenere i seguenti risultati:
+
+* Identificare le risorse di storage del tuo ambiente che mostrano una capacità bassa.
+* Esaminare le risorse per la capacità corrente e prevista.
+* Esamina l'utilizzo della CPU, le performance IOPS e le performance di latenza per determinare le opportunità di correzione della capacità.
+
+
+L'efficienza economica di BlueXP identifica le risorse di storage con capacità bassa corrente o prevista e fornisce consigli sul tiering dei dati o sulla capacità aggiuntiva (per i sistemi AFF). Se scegli di aggiungere capacità, una richiesta con consigli dettagliati viene inoltrata a te e a un rappresentante NetApp. Questa richiesta include i dettagli necessari per semplificare la selezione della capacità e la richiesta di ordine.
+
+È possibile accedere al servizio in BlueXP nella categoria *Governance*.
+
+L'efficienza economica di BlueXP si applica solo ai sistemi AFF on-premise (inclusi i sistemi AFF unificati e tutti gli array SAN).
+
+
+
+== Vantaggi dell'efficienza economica di BlueXP
+
+L'efficienza economica di BlueXP offre i seguenti vantaggi:
+
+* Offre un processo semplice per ottenere capacità aggiuntiva
+* Offre un consulente fidato e consigli per risolvere i problemi di capacità nel tuo ambiente
+* Riduce il tempo impiegato per la pianificazione di storage aggiuntivo
+
+
+
+
+== Costo
+
+NetApp non addebita alcun costo per l'utilizzo del servizio. Se decidi di eseguire il tiering dei dati cold allo storage cloud, dovrai controllare il tuo cloud provider per verificare i costi applicabili.

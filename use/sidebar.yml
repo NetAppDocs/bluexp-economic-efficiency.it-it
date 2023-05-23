@@ -1,0 +1,14 @@
+---
+section: use
+title: Utilizza l'efficienza economica di BlueXP
+entries:
+- title: Esaminare e risolvere i problemi di capacità
+  url: "/use/capacity-remediate-overview.html"
+- title: Esaminare lo stato della capacità
+  url: "/use/capacity-review-status.html"
+- title: Aggiungere capacità
+  url: "/use/capacity-add.html"
+- title: Tier cold data to cloud storage
+  url: "/use/capacity-tier-data.html"
+- title: Imposta promemoria per controllare di nuovo
+  url: "/use/capacity-reminders.html"

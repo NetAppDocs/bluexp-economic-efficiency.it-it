@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are bluexp economic efficiency requirements, economic efficiency prerequisites 
+summary: 'Inizia a utilizzare l"efficienza economica di BlueXP verificando il supporto per il tuo ambiente, l"accesso alla rete, l"accesso e il browser Web.' 
+---
+= Prerequisiti per l'efficienza economica di BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Inizia verificando la preparazione del tuo ambiente operativo, dell'accesso, dell'accesso alla rete e del browser Web.
+
+Per utilizzare l'efficienza economica di BlueXP, è necessario assicurarsi che il proprio ambiente soddisfi tutti i requisiti.
+
+* L'ambiente deve soddisfare tutti i requisiti di BlueXP, inclusi accesso e accesso alla rete da un browser Web.
++
+Fare riferimento a. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-standard-mode.html["Avvio rapido di BlueXP"^] e. https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-networking-saas-console.html["Informazioni di rete BlueXP"^].
+
+* È necessario disporre delle credenziali di accesso ai cluster.
+* Sebbene non sia un requisito, è utile che BlueXP Connector sia installato e attivato e che il sistema ONTAP venga rilevato. In caso contrario, il servizio guida l'utente attraverso tali processi.
+* Se si prevede di eseguire il tiering dei dati cold nello storage cloud, assicurarsi che il cluster sia idoneo per la licenza.
+
