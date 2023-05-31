@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-tier-data.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
-summary: Il servizio di efficienza economica BlueXP offre consigli basati sulla crescita dei dati prevista. Puoi accettare la previsione o inserire la tua previsione. In base a ciò, il servizio presenta suggerimenti che soddisfano la crescita della capacità prevista e sono più ottimali per la configurazione delle risorse. Uno dei consigli potrebbe essere il Tier cold data to cloud storage per liberare capacità. Questo suggerimento avvia la connessione a NetApp Cloud Tiering, un altro servizio BlueXP. 
+summary: Il servizio di efficienza economica BlueXP offre consigli basati sulla crescita dei dati prevista. Puoi accettare la previsione o inserire la tua previsione. In base a ciò, il servizio presenta suggerimenti che soddisfano la crescita della capacità prevista e sono più ottimali per la configurazione delle risorse. Uno dei consigli potrebbe essere il Tier cold data to cloud storage per liberare capacità. Questo suggerimento avvia la connessione al tiering BlueXP, un altro servizio BlueXP. 
 ---
 = Tier cold data to cloud storage e liberare storage
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: Il servizio di efficienza economica BlueXP offre consigli basati sulla 
 
 
 [role="lead"]
-L'efficienza economica di BlueXP offre consigli basati sulla crescita dei dati prevista. Puoi accettare la previsione o inserire la tua previsione. In base a ciò, il servizio presenta suggerimenti che soddisfano la crescita della capacità prevista e sono più ottimali per la configurazione delle risorse di storage. Uno dei consigli potrebbe essere il Tier cold data to cloud storage per liberare capacità. Questo suggerimento avvia la connessione a NetApp BlueXP Tiering (Cloud Tiering), un altro servizio BlueXP.
+L'efficienza economica di BlueXP offre consigli basati sulla crescita dei dati prevista. Puoi accettare la previsione o inserire la tua previsione. In base a ciò, il servizio presenta suggerimenti che soddisfano la crescita della capacità prevista e sono più ottimali per la configurazione delle risorse di storage. Uno dei consigli potrebbe essere il Tier cold data to cloud storage per liberare capacità. Questo suggerimento avvia la connessione al tiering BlueXP di NetApp, un altro servizio BlueXP.
 
 Da qui, è possibile eseguire il tiering dei dati e tornare facilmente all'efficienza economica di BlueXP per intervenire su altri sistemi.
 
@@ -29,8 +29,8 @@ Il processo di tiering del cloud include i seguenti processi:
 . Selezionare *Tier Cold Data*.
 . I passaggi successivi dipendono dal fatto che sia già stato implementato un connettore BlueXP e che il cluster sia stato scoperto:
 +
-** Se è necessario implementare BlueXP Connector, consultare la documentazione BlueXP che descrive https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Come creare un connettore"^]. In caso contrario, se il connettore è già stato implementato, l'opzione di implementazione del connettore non viene visualizzata.
-** Se il servizio deve rilevare il cluster, fare riferimento a. https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Scopri i cluster ONTAP on-premise"^]. In caso contrario, se il cluster è già stato rilevato, l'opzione per rilevare il cluster non viene visualizzata.
+** Se è necessario implementare BlueXP Connector, consultare la documentazione BlueXP che descrive https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Come creare un connettore"^]. In caso contrario, se il connettore è già stato implementato, l'opzione di implementazione del connettore non viene visualizzata.
+** Se il servizio deve rilevare il cluster, fare riferimento a. https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Scopri i cluster ONTAP on-premise"^]. In caso contrario, se il cluster è già stato rilevato, l'opzione per rilevare il cluster non viene visualizzata.
 
 
 +
@@ -44,6 +44,6 @@ Dopo aver implementato un connettore, BlueXP Tiering rileva il cluster, se non �
 
 . Una volta individuato il cluster, impostare il tiering.
 +
-Per ulteriori informazioni sul tiering, fare riferimento a. https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["Documentazione sui tiering BlueXP"^].
+Per ulteriori informazioni sul tiering, fare riferimento a. https://docs.netapp.com/us-en/bluexp-tiering/index.html["Documentazione sui tiering BlueXP"^].
 
 
