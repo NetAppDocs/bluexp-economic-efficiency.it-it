@@ -1,0 +1,69 @@
+---
+sidebar: sidebar 
+permalink: use/tech-refresh.html 
+keywords: economic efficiency, tech refresh, technology update, hardware assessment 
+summary: 'Se disponi di risorse esistenti e desideri avere una valutazione per identificare se un refresh tecnologico è consigliato, puoi utilizzare l"opzione di tech refresh per l"efficienza economica di BlueXP. Il processo effettua una valutazione dei carichi di lavoro e delle risorse correnti e offre consigli su come procedere.' 
+---
+= Ottieni una valutazione dei tech refresh
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Se disponi di risorse esistenti e desideri avere una valutazione per identificare se un refresh tecnologico è consigliato, puoi utilizzare l'opzione di tech refresh per l'efficienza economica di BlueXP. Il processo effettua una valutazione dei carichi di lavoro e delle risorse correnti e offre consigli su come procedere.
+
+La valutazione include i seguenti passaggi:
+
+* Selezionare i sistemi che si desidera valutare.
+* Specifica i tuoi requisiti relativi ad ambienti, tipi di carico di lavoro, capacità, performance e budget.
+* Visualizza i consigli relativi ai prodotti e ai servizi cloud appropriati che potrebbero migliorare le performance del tuo ambiente.
+
+
+I sistemi sono considerati candidati per un tech refresh in base a quanto segue:
+
+* Si avvicina la fine del contratto di supporto tecnico
+* Si sta avvicinando la fine del ciclo di vita dell'hardware
+
+
+.Fasi
+. Dal menu di navigazione a sinistra di BlueXP, seleziona *Governance* > *efficienza economica* > *Tech refresh*.
++
+image:tech-refresh-list.png["Pagina di aggiornamento tecnico che mostra la scheda candidati per l'aggiornamento tecnico"]
+
+. Guarda la scheda *Tech refresh Candidates*, che elenca tutti gli ambienti di lavoro che potrebbero trarre vantaggio da un aggiornamento tecnologico.
+. Selezionare l'ambiente di lavoro in cui si desidera ottenere una valutazione.
+. Sulla destra, selezionare *valuta aggiornamento*.
+. Nelle opzioni di aggiornamento della valutazione, selezionare *Prendi valutazione*.
+. Selezionare il sistema o i sistemi su cui si desidera eseguire la valutazione e selezionare *Avanti*.
+. Seleziona i tipi di ambiente che desideri: Cloud pubblico, cloud ibrido o on-premise.
+. Seleziona tutti i tipi di workload che desideri gestire: Applicazioni business-critical, data Lake e flussi di lavoro multimediali, storage secondario, workload meno critici o analytics e calcolo dalle performance elevate.
+. Immettere i requisiti di capacità in TIB, spostare il cursore sul valore oppure posizionare il cursore sul valore nel cursore e selezionare *Avanti*.
+. Seleziona gli aspetti relativi alle performance che desideri gestire: Latenza minima, IOPS massimi, workload misti o performance non importanti e seleziona *Avanti*.
+. Immettere un budget in dollari USA, far scorrere il cursore sul valore o posizionare il cursore sul valore nel cursore e selezionare *Avanti*.
++
+Viene visualizzata una serie di raccomandazioni in diverse schede per le opzioni scelte.
+
+. Esaminare le raccomandazioni.
+. Per scaricare un PDF dei suggerimenti, selezionare *Download*.
+. Per contattare un rappresentante di vendita NetApp in merito alle raccomandazioni, selezionare *Contatta vendite*.
++
+Una pagina Web mostra le opzioni tra cui è possibile scegliere per contattare un rappresentante di vendita NetApp.
+
+
+
+
+
+== Visualizza le valutazioni dei refresh tecnologici già effettuate
+
+Potresti voler rivedere le valutazioni sui refresh tecnologici già effettuate e rivedere i consigli.
+
+.Fasi
+. Dal menu di navigazione a sinistra di BlueXP, seleziona *Governance* > *efficienza economica* > *Tech refresh*.
+. Selezionare la scheda *Tech refresh Candidates*, che elenca tutti i sistemi su cui è stata effettuata una valutazione di aggiornamento della tecnologia. Quindi, selezionare *Visualizza azione* sulla riga per visualizzare le valutazioni e i consigli per quel sistema.
++
+In alternativa, selezionare la riga in cui viene visualizzato "azione eseguita" e selezionare *Visualizza* per visualizzare i dettagli del sistema.
+
+. Visualizzare i suggerimenti per l'aggiornamento.
+
