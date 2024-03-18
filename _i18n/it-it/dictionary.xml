@@ -38,7 +38,6 @@
   <block id="6a38b1e28c18e6b4edeb4e7b0818a2d7" category="list-text">Identificare le risorse di storage del tuo ambiente che mostrano una capacità bassa.</block>
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">Esaminare le risorse per la capacità corrente e prevista.</block>
   <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">Esamina l'utilizzo della CPU, le performance IOPS e le performance di latenza per determinare le opportunità di correzione della capacità.</block>
-  <block id="73392ce9486f187520554de1730eae2e" category="paragraph">È possibile accedere al servizio in BlueXP nella categoria *Governance*.</block>
   <block id="6c4ccbebd2c1bc279ee2cb6f8f6b41f9" category="section-title">Vantaggi dell'efficienza economica di BlueXP</block>
   <block id="fa994af86d0c0087b7eee14a622f20f6" category="paragraph">L'efficienza economica di BlueXP offre i seguenti vantaggi:</block>
   <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">Offre un processo semplice per ottenere capacità aggiuntiva</block>
@@ -84,7 +83,6 @@
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">Se disponi di un account a livello di cliente, puoi aggiungere uno o più account NSS.</block>
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Se disponi di un account partner o reseller, puoi aggiungere uno o più account NSS, ma non possono essere aggiunti insieme agli account a livello di cliente.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Schermata del menu Help (Guida) in cui Support (Assistenza) è la prima opzione elencata</block>
-  <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp utilizza Microsoft Azure Active Directory come provider di identità per i servizi di autenticazione specifici per il supporto e la concessione di licenze.</block>
   <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">Nella pagina di accesso, fornire l'indirizzo e-mail e la password registrati del NetApp Support Site per eseguire il processo di autenticazione.</block>
   <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">Queste azioni consentono a BlueXP di utilizzare il tuo account NSS per download di licenze, verifica dell'aggiornamento software e registrazioni di supporto future.</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Tenere presente quanto segue:</block>
@@ -129,8 +127,6 @@
   <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">Unisciti alla community BlueXP per seguire le discussioni in corso o crearne di nuove.</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Documentazione</block>
   <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">La documentazione BlueXP attualmente visualizzata.</block>
-  <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">Mailto:ng-cloudmanager-feedback@netapp.com[email di feedback]</block>
-  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">Diamo valore al tuo contributo. Invia un feedback per aiutarci a migliorare BlueXP.</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Crea un caso con il supporto NetApp</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Oltre alle opzioni di supporto autonomo sopra descritte, puoi collaborare con uno specialista del supporto NetApp per risolvere eventuali problemi dopo l'attivazione del supporto.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Prima di iniziare</block>
@@ -262,8 +258,6 @@
   <block id="6fbd69f2466455027f39d7ed05855812" category="paragraph">Dopo aver implementato un connettore, BlueXP Tiering rileva il cluster, se non è già stato rilevato.</block>
   <block id="51719535acedbf69edcd6974f73c1601" category="list-text">Una volta individuato il cluster, impostare il tiering.</block>
   <block id="94cbb43a5cde5c6df8693b056bc08139" category="inline-link">Documentazione sui tiering BlueXP</block>
-  <block id="eccbf2d005133654fdaff166311ce0c9" category="summary">La pianificazione della capacità è essenziale per evitare tempi di inattività non necessari a causa della bassa capacità dei sistemi. L'efficienza economica di BlueXP può aiutarti a identificare i cluster che mostrano una capacità bassa, esaminare i cluster per la capacità corrente e prevista e analizzare l'utilizzo della CPU, le performance IOPS e le performance di latenza per determinare le opportunità di correzione della capacità.</block>
-  <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">Efficienza economica di BlueXP</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Inizia subito</block>
   <block id="be927a0c7de9e9a4deadb896c66cc674" category="sidebar">Novità dell'efficienza economica di BlueXP</block>
   <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">Avvio rapido</block>
@@ -360,55 +354,125 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Ottieni supporto per un file service del cloud provider</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Per supporto tecnico relativo a un file service di un cloud provider, alla sua infrastruttura o a una soluzione che utilizza il servizio, fare riferimento a "Guida in linea" nella documentazione BlueXP relativa a quel prodotto.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Per ricevere supporto tecnico specifico di BlueXP e delle relative soluzioni e servizi storage, utilizza le opzioni di supporto descritte di seguito.</block>
-  <block id="f0e817cb84a49a26db71d640356019f4" category="inline-link-macro">Esegui una valutazione dei tech refresh</block>
-  <block id="ac97b132749b374b068a120e488fcd0e" category="list-text"><block ref="858757337543e4b0b3edb61576007bac" category="inline-link-macro-rx"></block>.</block>
   <block id="e5871941005696021ad600fa37da85f1" category="summary">Il servizio di efficienza economica BlueXP identifica i cluster con capacità bassa corrente o prevista e fornisce consigli su tiering dei dati o capacità aggiuntiva (per i sistemi AFF). Il servizio fornisce inoltre consigli sugli aggiornamenti tecnologici nei sistemi che si stanno avvicinando alla fine del ciclo di vita.</block>
   <block id="04d4502244c1b78fc398e2ab854757d1" category="paragraph">L'efficienza economica di BlueXP valuta due aree vitali del tuo ambiente: Risorse storage con bassa capacità attuale o prevista e sistemi che si stanno avvicinando alla fine della vita utile. Il servizio offre consigli sul tiering dei dati o su capacità aggiuntiva (per i sistemi AFF) e opzioni di refresh tecnologico che soddisfano le tue esigenze di business.</block>
   <block id="c5eed8523c59be7e7055502368d7c8c9" category="paragraph">L'efficienza economica di BlueXP può aiutarti a raggiungere i seguenti obiettivi.</block>
   <block id="9875b19dee665bb875b719b9e9ae8af9" category="paragraph">*Pianificazione della capacità*</block>
   <block id="a75c21b3028c89c7a9ba2ea318233515" category="list-text">Ottieni consigli su come espandere la capacità nel tuo ambiente.</block>
   <block id="b4b8b4721f6971106929030c2ebeed9e" category="paragraph">Il planning della capacità dell'efficienza economica di BlueXP si applica solo ai sistemi AFF on-premise (inclusi i sistemi AFF unificati e tutti gli array SAN).</block>
-  <block id="72437c9f19c075990b00e9de0e1a44b8" category="paragraph">*Valutazione dell'aggiornamento tecnologico*</block>
   <block id="b8f192587f9fb6aabeab974d20b80bb3" category="list-text">Esaminare un elenco di sistemi che si stanno avvicinando alla fine del ciclo di vita o che si stanno avvicinando ad altri eventi del ciclo di vita.</block>
   <block id="9d32ad95cd61231af88e0c366f0ded5f" category="list-text">Una valutazione dell'ambiente di lavoro attuale e suggerimenti su opzioni di refresh tecnologico in grado di soddisfare i tuoi requisiti di carico di lavoro, capacità, performance e budget.</block>
   <block id="c75d78ac539015a339e4aa9720ca729e" category="inline-image-macro">Diagramma del processo di refresh tecnologico nell'efficienza economica di BlueXP</block>
   <block id="c814cc88c080268f66afab5af1deb9d4" category="paragraph"><block ref="c814cc88c080268f66afab5af1deb9d4" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="9e352447a1c5e46200808eb84d9a862a" category="list-text">Identifica i sistemi che si stanno avvicinando agli eventi del ciclo di vita per aiutarti a pianificare un refresh tecnologico</block>
   <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">Offre consigli di un consulente fidato per affrontare problemi di capacità nel tuo ambiente</block>
   <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp non addebita alcun costo per l'utilizzo del servizio.</block>
   <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">Se decidi di eseguire il tiering dei dati cold allo storage cloud, dovrai controllare il tuo cloud provider per verificare i costi applicabili.</block>
-  <block id="a456de5363786e290113dc87be0d8c89" category="summary">Se disponi di risorse esistenti e desideri avere una valutazione per identificare se un refresh tecnologico è consigliato, puoi utilizzare l'opzione di tech refresh per l'efficienza economica di BlueXP. Il processo effettua una valutazione dei carichi di lavoro e delle risorse correnti e offre consigli su come procedere.</block>
   <block id="d596892095124cd33de259bb9c6d8bdf" category="doc">Ottieni una valutazione dei tech refresh</block>
   <block id="a6babd905f3ba163c4818f3a71e85280" category="paragraph">La valutazione include i seguenti passaggi:</block>
   <block id="a6c4b361fe037e9829a1b6c444d3c045" category="list-text">Selezionare i sistemi che si desidera valutare.</block>
   <block id="c30e6ddb6c5a57eadc6068b4fb442fa0" category="list-text">Specifica i tuoi requisiti relativi ad ambienti, tipi di carico di lavoro, capacità, performance e budget.</block>
   <block id="e0d081d97c8f3ae3f0917ae9aa59bc00" category="list-text">Visualizza i consigli relativi ai prodotti e ai servizi cloud appropriati che potrebbero migliorare le performance del tuo ambiente.</block>
   <block id="8aec41c7ba6a608ecc5e3bf075c75955" category="paragraph">I sistemi sono considerati candidati per un tech refresh in base a quanto segue:</block>
-  <block id="ecc292589422afcc5886b7e41ad68c72" category="list-text">Si avvicina la fine del contratto di supporto tecnico</block>
-  <block id="af71bdeef415b1f9cee59f7f1b98cfef" category="list-text">Si sta avvicinando la fine del ciclo di vita dell'hardware</block>
   <block id="251ce3e9a0f2e743c16cf6745026684a" category="list-text">Dal menu di navigazione a sinistra di BlueXP, seleziona *Governance* &gt; *efficienza economica* &gt; *Tech refresh*.</block>
   <block id="18e03fe3f044e3b4882d1224f6b64647" category="inline-image-macro">Pagina di aggiornamento tecnico che mostra la scheda candidati per l'aggiornamento tecnico</block>
-  <block id="b19b7d4fec83433fb774ae9faa3d69f6" category="paragraph"><block ref="b19b7d4fec83433fb774ae9faa3d69f6" category="inline-image-macro-rx" type="image"></block></block>
   <block id="2a83e88bfd3a6df19edf7074fdf74aa8" category="list-text">Guarda la scheda *Tech refresh Candidates*, che elenca tutti gli ambienti di lavoro che potrebbero trarre vantaggio da un aggiornamento tecnologico.</block>
   <block id="47215b09178bb5c93fdb16f794a46de0" category="list-text">Selezionare l'ambiente di lavoro in cui si desidera ottenere una valutazione.</block>
-  <block id="43f608e701fb6e458b2c54b8218f2030" category="list-text">Sulla destra, selezionare *valuta aggiornamento*.</block>
-  <block id="eb543771e4455ef8aaf16ef1ec6b98c1" category="list-text">Nelle opzioni di aggiornamento della valutazione, selezionare *Prendi valutazione*.</block>
   <block id="5163b220b10897250bf3e170ce6daa9c" category="list-text">Selezionare il sistema o i sistemi su cui si desidera eseguire la valutazione e selezionare *Avanti*.</block>
-  <block id="c80e774876c4181d84849cf05a456feb" category="list-text">Seleziona i tipi di ambiente che desideri: Cloud pubblico, cloud ibrido o on-premise.</block>
-  <block id="cd1d14c41390ca02836f8796ad882779" category="list-text">Seleziona tutti i tipi di workload che desideri gestire: Applicazioni business-critical, data Lake e flussi di lavoro multimediali, storage secondario, workload meno critici o analytics e calcolo dalle performance elevate.</block>
-  <block id="4f365c7c2e83cd4835500fe229245f49" category="list-text">Immettere i requisiti di capacità in TIB, spostare il cursore sul valore oppure posizionare il cursore sul valore nel cursore e selezionare *Avanti*.</block>
-  <block id="c405cc8fb6aeff71a00dc67a5c45e8bb" category="list-text">Seleziona gli aspetti relativi alle performance che desideri gestire: Latenza minima, IOPS massimi, workload misti o performance non importanti e seleziona *Avanti*.</block>
-  <block id="ad48853148bed59c232afb2557695a4a" category="list-text">Immettere un budget in dollari USA, far scorrere il cursore sul valore o posizionare il cursore sul valore nel cursore e selezionare *Avanti*.</block>
   <block id="27fc8e6d0827e3065fe50dd710023bf2" category="paragraph">Viene visualizzata una serie di raccomandazioni in diverse schede per le opzioni scelte.</block>
   <block id="ee45c26f52faad8357038bfc28072aef" category="list-text">Esaminare le raccomandazioni.</block>
   <block id="3369d572efb7971966d65671e9a87c83" category="list-text">Per scaricare un PDF dei suggerimenti, selezionare *Download*.</block>
-  <block id="c8f18e923447016bf04be2ef9ff734e6" category="list-text">Per contattare un rappresentante di vendita NetApp in merito alle raccomandazioni, selezionare *Contatta vendite*.</block>
-  <block id="867f3f4db8b8a564320a00c8fe1f8bb8" category="paragraph">Una pagina Web mostra le opzioni tra cui è possibile scegliere per contattare un rappresentante di vendita NetApp.</block>
   <block id="8e4d9596ef29e6bf948898e20b66f6c4" category="section-title">Visualizza le valutazioni dei refresh tecnologici già effettuate</block>
   <block id="2be881e5370ff5fb4545cae0fccc4747" category="paragraph">Potresti voler rivedere le valutazioni sui refresh tecnologici già effettuate e rivedere i consigli.</block>
-  <block id="56a152189b75153e4f0f874e3d9c9457" category="list-text">Selezionare la scheda *Tech refresh Candidates*, che elenca tutti i sistemi su cui è stata effettuata una valutazione di aggiornamento della tecnologia. Quindi, selezionare *Visualizza azione* sulla riga per visualizzare le valutazioni e i consigli per quel sistema.</block>
-  <block id="f248060618ab5de89770d8ca2f297946" category="paragraph">In alternativa, selezionare la riga in cui viene visualizzato "azione eseguita" e selezionare *Visualizza* per visualizzare i dettagli del sistema.</block>
   <block id="77897fd355d4822999b6e016d2698bb2" category="list-text">Visualizzare i suggerimenti per l'aggiornamento.</block>
   <block id="41e96c41b82196674a6b6c99d0c0b8ad" category="section-title">08 novembre 2023</block>
   <block id="c4cd570753ca79cf809d24d7723c0e82" category="paragraph">Questa release dell'efficienza economica di BlueXP include una nuova opzione per valutare gli asset e identificare se si consiglia un refresh tecnologico. Il servizio include una nuova opzione di aggiornamento tecnico nel riquadro a sinistra, nuove pagine in cui è possibile effettuare una valutazione dei carichi di lavoro e delle risorse correnti e un report che fornisce consigli.</block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp utilizza Microsoft Entra ID come provider di identità per i servizi di autenticazione specifici per il supporto e la licenza.</block>
+  <block id="d14c9f16849819a9f636da7ac361ff22" category="summary">Se disponi di risorse esistenti e desideri avere una valutazione per identificare se un refresh tecnologico è consigliato, puoi utilizzare l'opzione di tech refresh per l'efficienza economica di BlueXP. Il processo effettua una valutazione dei carichi di lavoro e delle risorse correnti e offre consigli su come procedere. In alternativa, è possibile provare una simulazione del carico di lavoro.</block>
+  <block id="33a9c4b5f0c522c38ff9b1b46ebd1498" category="doc">Valutazione di un refresh tecnologico</block>
+  <block id="5ac035629d66a48b86400168272fb788" category="paragraph">Se disponi di risorse esistenti e desideri determinare se è consigliato un refresh tecnologico, puoi utilizzare le opzioni di refresh Tech dell'efficienza economica di BlueXP. Puoi rivedere una breve valutazione dei tuoi carichi di lavoro attuali e ottenere consigli, oppure, se hai inviato log di AutoSupport a NetApp negli ultimi 90 giorni, il servizio può fornire una simulazione di carichi di lavoro per vedere le performance dei tuoi carichi di lavoro sul nuovo hardware.</block>
+  <block id="c1df900b707f6cd8b297fcefd8af961c" category="list-text"><block ref="3bb80309ab3efc46643e12a3c466df63" category="inline-xref-macro-rx"></block></block>
+  <block id="3a6ef779c7756458c04e7911e9d5bd22" category="list-text"><block ref="aeecc3b20f94ea0eee23729012d11867" category="inline-xref-macro-rx"></block></block>
+  <block id="86602ed92a03b859038bb7756a757229" category="list-text">Prossima alla fine del contratto di supporto tecnico</block>
+  <block id="c38a9e42a96b1f7a4348f94a647dbf2f" category="list-text">In prossimità della fine del ciclo di vita dell'hardware</block>
+  <block id="e58668930cccc759b3f2b6fda381ee68" category="admonition">Puoi accedere a questa funzionalità tramite l'efficienza economica di BlueXP o il consulente digitale di NetApp.</block>
+  <block id="9a99f963e31049c789d353216d6aa4ce" category="section-title">Esegui una valutazione dei refresh</block>
+  <block id="3a9ff9e61ff49a5a72a2d6b20d63dcee" category="inline-image-macro">Pagina di aggiornamento tecnico che mostra i candidati per l'aggiornamento tecnologico</block>
+  <block id="1e7afb39626c91b21e07933d8a4a6e4e" category="paragraph"><block ref="1e7afb39626c91b21e07933d8a4a6e4e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f72458015275b72478d3c8356aa2a853" category="list-text">Nella colonna azioni, selezionare *valuta aggiornamento*.</block>
+  <block id="41dd9cb81e846a2b92ce0dc8d3bab0f4" category="inline-image-macro">Sistemi da includere nel tech refresh</block>
+  <block id="ee37d63f7086468bf9d7a51a647d233a" category="paragraph"><block ref="ee37d63f7086468bf9d7a51a647d233a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="806dd078b829587301ef35da4ff329f4" category="list-text">Definire i requisiti:</block>
+  <block id="097e04f6385b45e9e5eb37d62ff925b9" category="list-text">*Ambienti*: Seleziona i tipi di ambiente che desideri: Cloud pubblico, cloud ibrido o on-premise.</block>
+  <block id="b6b10bd24bddb16fc0121f5a5567474e" category="inline-image-macro">Pagina dei requisiti di refresh tecnologico che mostra le scelte ambientali</block>
+  <block id="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="paragraph"><block ref="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f0d5a5bcec2b02dc4f30e9cac55af1ef" category="list-text">*Workload*: Seleziona tutti i tipi di workload che vuoi gestire: Applicazioni business-critical, analytics e calcolo dalle performance elevate, data Lake e flussi di lavoro multimediali, storage secondario o carichi di lavoro meno critici.</block>
+  <block id="6f29ee9b7199fc42e3e35abdfdbe7825" category="inline-image-macro">Scelte relative ai workload</block>
+  <block id="f2a5b15c77282cbeff7cf30606c436fa" category="paragraph"><block ref="f2a5b15c77282cbeff7cf30606c436fa" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9384757b4887b81990a846f0dce0ad71" category="list-text">*Capacità*: Immettere i requisiti di capacità in TIB, far scorrere il cursore sul valore oppure posizionare il cursore sul valore nel cursore e selezionare *Avanti*.</block>
+  <block id="fbd5cc32604603614a43f9a8bd0a1602" category="list-text">*Prestazioni*: Selezionare gli aspetti relativi alle prestazioni che si desidera gestire: Latenza minima, IOPS massimi, workload misti o prestazioni non importanti e selezionare *Avanti*.</block>
+  <block id="0fc8dd400802744032cf5a3726d3ed48" category="inline-image-macro">Scelte di prestazioni</block>
+  <block id="4995e6732d45492019b191ec33b68907" category="paragraph"><block ref="4995e6732d45492019b191ec33b68907" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f8dccf96be3755c833f55e6cef8d52f8" category="list-text">*Budget*: Inserisci un budget in dollari USA, fai scorrere il cursore sul valore oppure posiziona il cursore sul valore nel cursore e seleziona *Avanti*.</block>
+  <block id="d1efeae1891322c753da8b9fec43a0c4" category="inline-image-macro">Visualizza la pagina di raccomandazioni sulla valutazione dell'aggiornamento</block>
+  <block id="dd6e2e89aa52b572824d6df4354282f9" category="paragraph"><block ref="dd6e2e89aa52b572824d6df4354282f9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="aaa33f8f70892c4be13e973507f01284" category="list-text">Effettuare una o entrambe le seguenti operazioni:</block>
+  <block id="778c1b7029a1912f763bb976dd5e31f2" category="list-text">Per contattare un rappresentante vendite NetApp in merito ai suggerimenti, selezionare *Contatta vendite*. Una pagina Web mostra le opzioni tra cui è possibile scegliere per contattare un rappresentante di vendita NetApp.</block>
+  <block id="560e42e6da9452e07ba03414df4da014" category="list-text">Selezionare *fine*.</block>
+  <block id="cfdbfc3f5dc775fe2319a5021b966ab5" category="list-text">Selezionare la scheda *Tech refresh Candidates*, che elenca tutti i sistemi su cui è stata effettuata una valutazione di aggiornamento della tecnologia. Quindi, dal menu azioni sulla riga relativa al sistema, selezionare per visualizzare le valutazioni e le raccomandazioni per tale sistema.</block>
+  <block id="94750197e906cc2c9191e06c19bbb219" category="list-text">Nella pagina valuta opzioni di aggiornamento, selezionare *Visualizza raccomandazione*.</block>
+  <block id="a56822a7ed8b771ff664c8a2c312313d" category="section-title">Simula i carichi di lavoro sul nuovo hardware</block>
+  <block id="1b72528e20ead2d97bbb081bc17dd1f5" category="paragraph">Se hai inviato gli log in di AutoSupport a NetApp negli ultimi 90 giorni, NetApp è in grado di fornire una simulazione per vedere le performance dei carichi di lavoro sul nuovo hardware.</block>
+  <block id="1f82c319eafb82533c3039aa2fc758a1" category="paragraph">È possibile includere o escludere carichi di lavoro specifici dalla simulazione. È inoltre possibile aggiungere i carichi di lavoro se non compaiono nell'elenco dei carichi di lavoro esistenti.</block>
+  <block id="ea1f2682b580a987049be53745fb1a38" category="paragraph"><block ref="ea1f2682b580a987049be53745fb1a38" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="866d2063657c0dc4b4f64e3a2328610d" category="list-text">Nella colonna azioni, selezionare *valuta aggiornamento*.</block>
+  <block id="a2bd67241a1f99044561e870dc051701" category="admonition">Il servizio importa i dettagli del carico di lavoro in preparazione alla simulazione.</block>
+  <block id="bd3c9da01d9261aa3a93e740620c99a3" category="inline-image-macro">Pagina di simulazione dei carichi di lavoro che mostra le opzioni relative ai requisiti</block>
+  <block id="3a7a8406bfae0f207e8a2d6b8583f23c" category="paragraph"><block ref="3a7a8406bfae0f207e8a2d6b8583f23c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a4e53dfb27100d4453da0662b9f64509" category="list-text">Nella pagina Simula carichi di lavoro &gt; requisiti del carico di lavoro, esegui le seguenti operazioni:</block>
+  <block id="1b4ca7f0b9b2476c4e6c29d42caca948" category="list-text">Per aggiungere un carico di lavoro non già presente nell'elenco, selezionare *Aggiungi carico di lavoro*. Per ulteriori informazioni, vedere <block ref="6d687ea8f3e00c0c7e5186f4595438ae" category="inline-xref-macro-rx"></block>.</block>
+  <block id="f490f6fc8d91e7f5ef2131cba343992a" category="list-text">*IOPS*: In alternativa, modificare gli IOPS desiderati per il nuovo hardware.</block>
+  <block id="f41128c05efbb759f8474126789c0f47" category="list-text">*Capacità (TIB)*: Se si desidera, modificare la capacità desiderata per il nuovo hardware.</block>
+  <block id="e06fc5134e6dcc27d1d3a9c1c7b81762" category="list-text">Per escludere i carichi di lavoro, nella colonna azioni, selezionare l'opzione *Escludi carico di lavoro dalla simulazione*.</block>
+  <block id="ed5412b57235dc91df9b3a469663c841" category="admonition">Per includere i carichi di lavoro precedentemente esclusi, selezionare la scheda *workload esclusi* e selezionare l'opzione *Includi carico di lavoro nella simulazione*.
+.. Selezionare *Avanti*.</block>
+  <block id="98b49be109051ae05853cc9bf04cf1f4" category="list-text">Esaminare i risultati simulati sul nuovo hardware nella pagina di configurazione:</block>
+  <block id="f31d77cf6170bdf60e97f36b2c4f76a8" category="inline-image-macro">Pagina di simulazione dei carichi di lavoro che mostra i risultati della simulazione</block>
+  <block id="4e1bdf386c1b043d84adedd9f658ac8f" category="paragraph"><block ref="4e1bdf386c1b043d84adedd9f658ac8f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="79535c026c0bb22f2b3c8d61fbb08bc9" category="admonition">Le raccomandazioni migliori sono indicate con un'indicazione "migliore".</block>
+  <block id="a659c87a2a01001dd1f5e5afdbbfc6da" category="list-text">Per contattare un rappresentante di vendita NetApp in merito alle raccomandazioni:</block>
+  <block id="619f49fb1cba24462e3360cdc2291026" category="list-text">Selezionare *contatto*.</block>
+  <block id="cd9d83eb56c67a4bed881046405808c0" category="list-text">Immettere i dettagli di contatto.</block>
+  <block id="5c65d3d7b5dede3b7b2861d401c3e2b2" category="list-text">Aggiungere note speciali per l'addetto alle vendite NetApp.</block>
+  <block id="359c274a837b4efa363f0727671ab1ed" category="list-text">Selezionare *Conferma e inoltra*.</block>
+  <block id="3a77b8d1967fa6a55531f5e8ad71fdf7" category="paragraph">Le raccomandazioni della simulazione del carico di lavoro vengono inviate a un rappresentante di vendita NetApp. Riceverai anche un'e-mail di conferma dei suggerimenti. Un rappresentante di vendita NetApp risponderà alla vostra richiesta.</block>
+  <block id="809b80ce5e4316dd14aedcc74561092f" category="section-title">Aggiungi un carico di lavoro</block>
+  <block id="bad77863da577d4936af240586679ff2" category="paragraph">È possibile aggiungere un carico di lavoro non già elencato nella simulazione dei carichi di lavoro.</block>
+  <block id="5ff63883dd1765c0e66ae3a76cd759c4" category="list-text">Selezionare l'ambiente di lavoro.</block>
+  <block id="8ea1f54d2235c0f21408896335f47e8f" category="list-text">Nella pagina Simula carichi di lavoro &gt; requisiti del carico di lavoro, selezionare *Aggiungi carico di lavoro*.</block>
+  <block id="20866c393314c6f5280ccdbcd2984185" category="inline-image-macro">Pagina di aggiunta del carico di lavoro</block>
+  <block id="f8aee05bb242597c2f3152f62d15cab9" category="paragraph"><block ref="f8aee05bb242597c2f3152f62d15cab9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="771a08a10564b90f92464088d5030fa9" category="list-text">Selezionare l'applicazione, immettere il nome del carico di lavoro e selezionare le dimensioni del carico di lavoro.</block>
+  <block id="5723e79aadeee69091be4cb7f55ef0e9" category="list-text">Immettere i valori di capacità e prestazioni previsti del carico di lavoro.</block>
+  <block id="ac59f662241c026643fe3610a6c1dae5" category="admonition">Se si sceglie la dimensione del carico di lavoro di piccole dimensioni, tipiche o che è io-intensive, vengono visualizzati i valori predefiniti.</block>
+  <block id="28a3d4238c0846b126310cbfebfcffda" category="list-text">Facoltativamente, selezionare la freccia Opzioni avanzate e modificare le impostazioni predefinite per le seguenti informazioni:</block>
+  <block id="a721dca76e5313035a71553b91c23b39" category="list-text">*Efficienza dello storage*: Un rapporto tipico di riduzione dei dati potrebbe essere compreso tra 2 e 1.</block>
+  <block id="f6a6729c8c1f908586e603d1161a33c2" category="list-text">*Random Read %*: Le dimensioni medie di io tipiche per una lettura casuale sono 16K KB.</block>
+  <block id="e3ff8d47ac99eb785976344b6a561a44" category="list-text">*Letture sequenziali %*: Un tipico modello di lettura è casuale al 50% e sequenziale al 50%.</block>
+  <block id="49631ed94494467c16d7f4535454538a" category="list-text">*Scritture casuali %*: Una tipica dimensione io media per una scrittura casuale è di 32K KB.</block>
+  <block id="3a49eb6b3b1b81f28bf0fe6e92c60f3f" category="list-text">*Sequential Scritture %*: Un tipico schema di scrittura è casuale al 50% e sequenziale al 50%.</block>
+  <block id="bd43fc9501d9e9ddb964eda155be38b8" category="section-title">14 marzo 2024</block>
+  <block id="2910a4560c79f740cc97d113def24905" category="paragraph">Se disponi di risorse esistenti e vuoi determinare se una tecnologia deve essere aggiornata, puoi usare le opzioni di refresh della tecnologia dell'efficienza economica di BlueXP. Puoi rivedere una breve valutazione dei tuoi carichi di lavoro attuali e ottenere consigli, oppure, se hai inviato log di AutoSupport a NetApp negli ultimi 90 giorni, il servizio può ora fornire una simulazione dei carichi di lavoro per vedere le performance dei tuoi carichi di lavoro sul nuovo hardware.</block>
+  <block id="10fa032662780ff6f01bd6647d92c626" category="paragraph">È anche possibile aggiungere un carico di lavoro ed escludere i carichi di lavoro esistenti dalla simulazione.</block>
+  <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">In precedenza, era possibile solo effettuare una valutazione delle risorse e stabilire se si consiglia un refresh tecnologico.</block>
+  <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">La funzione è ora parte dell'opzione aggiornamento tecnico nel menu di navigazione a sinistra.</block>
+  <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">Scopri di più su <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>.</block>
+  <block id="125b544edea581d53f2d48e24eca22a1" category="inline-link-macro">Esegui una valutazione dei tech refresh o simula i tuoi carichi di lavoro su nuovo hardware</block>
+  <block id="cfdddd9fdda3a6c9edb8d92e163f706e" category="list-text"><block ref="85216510d035cb29818c638561cda6b0" category="inline-link-macro-rx"></block>.</block>
+  <block id="e581a5d8d5f03d5e44c9b34c7a287331" category="paragraph">*Valutazione e simulazione dell'aggiornamento tecnologico*</block>
+  <block id="ab59f1058d018fe7c2ab12c567b827c5" category="list-text">Esegui una simulazione dei carichi di lavoro su nuovo hardware e scarica i risultati.</block>
+  <block id="c010d313c84aa7576715aeca465e02ba" category="list-text">Identifica i sistemi che si stanno avvicinando agli eventi del ciclo di vita per aiutarti a pianificare un refresh tecnologico, eseguendo una breve valutazione o una simulazione del carico di lavoro su un nuovo hardware</block>
+  <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">Accesso</block>
+  <block id="9087f29454392d1114832868ba710775" category="paragraph">È possibile accedere a questa funzione sia tramite l'efficienza economica di BlueXP (*Governance* &gt; *efficienza economica* &gt; *Tech refresh*) o tramite il consulente digitale di NetApp (*Dashboard* &gt; *Planning widget* &gt; *Tech refresh*).</block>
+  <block id="72bf780976830d013719cb205b31d39b" category="sidebar">Documentazione sull'efficienza economica di BlueXP</block>
+  <block id="3d8fb7c37ddf3912bdf3208d101382d5" category="sidebar">Valuta un tech refresh</block>
 </blocks>

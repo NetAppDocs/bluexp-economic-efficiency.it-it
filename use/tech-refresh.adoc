@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: use/tech-refresh.html 
 keywords: economic efficiency, tech refresh, technology update, hardware assessment 
-summary: 'Se disponi di risorse esistenti e desideri avere una valutazione per identificare se un refresh tecnologico è consigliato, puoi utilizzare l"opzione di tech refresh per l"efficienza economica di BlueXP. Il processo effettua una valutazione dei carichi di lavoro e delle risorse correnti e offre consigli su come procedere.' 
+summary: 'Se disponi di risorse esistenti e desideri avere una valutazione per identificare se un refresh tecnologico è consigliato, puoi utilizzare l"opzione di tech refresh per l"efficienza economica di BlueXP. Il processo effettua una valutazione dei carichi di lavoro e delle risorse correnti e offre consigli su come procedere. In alternativa, è possibile provare una simulazione del carico di lavoro.' 
 ---
-= Ottieni una valutazione dei tech refresh
+= Valutazione di un refresh tecnologico
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,24 @@ summary: 'Se disponi di risorse esistenti e desideri avere una valutazione per i
 
 
 [role="lead"]
-Se disponi di risorse esistenti e desideri avere una valutazione per identificare se un refresh tecnologico è consigliato, puoi utilizzare l'opzione di tech refresh per l'efficienza economica di BlueXP. Il processo effettua una valutazione dei carichi di lavoro e delle risorse correnti e offre consigli su come procedere.
+Se disponi di risorse esistenti e desideri determinare se è consigliato un refresh tecnologico, puoi utilizzare le opzioni di refresh Tech dell'efficienza economica di BlueXP. Puoi rivedere una breve valutazione dei tuoi carichi di lavoro attuali e ottenere consigli, oppure, se hai inviato log di AutoSupport a NetApp negli ultimi 90 giorni, il servizio può fornire una simulazione di carichi di lavoro per vedere le performance dei tuoi carichi di lavoro sul nuovo hardware.
+
+* <<Esegui una valutazione dei refresh>>
+* <<Simula i carichi di lavoro sul nuovo hardware>>
+
+
+I sistemi sono considerati candidati per un tech refresh in base a quanto segue:
+
+* Prossima alla fine del contratto di supporto tecnico
+* In prossimità della fine del ciclo di vita dell'hardware
+
+
+
+TIP: Puoi accedere a questa funzionalità tramite l'efficienza economica di BlueXP o il consulente digitale di NetApp.
+
+
+
+== Esegui una valutazione dei refresh
 
 La valutazione include i seguenti passaggi:
 
@@ -21,36 +38,50 @@ La valutazione include i seguenti passaggi:
 * Visualizza i consigli relativi ai prodotti e ai servizi cloud appropriati che potrebbero migliorare le performance del tuo ambiente.
 
 
-I sistemi sono considerati candidati per un tech refresh in base a quanto segue:
-
-* Si avvicina la fine del contratto di supporto tecnico
-* Si sta avvicinando la fine del ciclo di vita dell'hardware
-
-
 .Fasi
 . Dal menu di navigazione a sinistra di BlueXP, seleziona *Governance* > *efficienza economica* > *Tech refresh*.
 +
-image:tech-refresh-list.png["Pagina di aggiornamento tecnico che mostra la scheda candidati per l'aggiornamento tecnico"]
+image:tech-refresh-list2.png["Pagina di aggiornamento tecnico che mostra i candidati per l'aggiornamento tecnologico"]
 
 . Guarda la scheda *Tech refresh Candidates*, che elenca tutti gli ambienti di lavoro che potrebbero trarre vantaggio da un aggiornamento tecnologico.
 . Selezionare l'ambiente di lavoro in cui si desidera ottenere una valutazione.
-. Sulla destra, selezionare *valuta aggiornamento*.
-. Nelle opzioni di aggiornamento della valutazione, selezionare *Prendi valutazione*.
+. Nella colonna azioni, selezionare *valuta aggiornamento*.
++
+image:tech-refresh-systems.png["Sistemi da includere nel tech refresh"]
+
 . Selezionare il sistema o i sistemi su cui si desidera eseguire la valutazione e selezionare *Avanti*.
-. Seleziona i tipi di ambiente che desideri: Cloud pubblico, cloud ibrido o on-premise.
-. Seleziona tutti i tipi di workload che desideri gestire: Applicazioni business-critical, data Lake e flussi di lavoro multimediali, storage secondario, workload meno critici o analytics e calcolo dalle performance elevate.
-. Immettere i requisiti di capacità in TIB, spostare il cursore sul valore oppure posizionare il cursore sul valore nel cursore e selezionare *Avanti*.
-. Seleziona gli aspetti relativi alle performance che desideri gestire: Latenza minima, IOPS massimi, workload misti o performance non importanti e seleziona *Avanti*.
-. Immettere un budget in dollari USA, far scorrere il cursore sul valore o posizionare il cursore sul valore nel cursore e selezionare *Avanti*.
+. Definire i requisiti:
++
+.. *Ambienti*: Seleziona i tipi di ambiente che desideri: Cloud pubblico, cloud ibrido o on-premise.
++
+image:tech-refresh-requirements-environments4.png["Pagina dei requisiti di refresh tecnologico che mostra le scelte ambientali"]
+
+.. *Workload*: Seleziona tutti i tipi di workload che vuoi gestire: Applicazioni business-critical, analytics e calcolo dalle performance elevate, data Lake e flussi di lavoro multimediali, storage secondario o carichi di lavoro meno critici.
++
+image:tech-refresh-requirements-workload-tiles.png["Scelte relative ai workload"]
+
+.. *Capacità*: Immettere i requisiti di capacità in TIB, far scorrere il cursore sul valore oppure posizionare il cursore sul valore nel cursore e selezionare *Avanti*.
+.. *Prestazioni*: Selezionare gli aspetti relativi alle prestazioni che si desidera gestire: Latenza minima, IOPS massimi, workload misti o prestazioni non importanti e selezionare *Avanti*.
++
+image:tech-refresh-requirements-performance-tiles.png["Scelte di prestazioni"]
+
+.. *Budget*: Inserisci un budget in dollari USA, fai scorrere il cursore sul valore oppure posiziona il cursore sul valore nel cursore e seleziona *Avanti*.
 +
 Viene visualizzata una serie di raccomandazioni in diverse schede per le opzioni scelte.
 
-. Esaminare le raccomandazioni.
-. Per scaricare un PDF dei suggerimenti, selezionare *Download*.
-. Per contattare un rappresentante di vendita NetApp in merito alle raccomandazioni, selezionare *Contatta vendite*.
-+
-Una pagina Web mostra le opzioni tra cui è possibile scegliere per contattare un rappresentante di vendita NetApp.
 
+
+. Esaminare le raccomandazioni.
++
+image:tech-refresh-view-recommendations2.png["Visualizza la pagina di raccomandazioni sulla valutazione dell'aggiornamento"]
+
+. Effettuare una o entrambe le seguenti operazioni:
++
+.. Per scaricare un PDF dei suggerimenti, selezionare *Download*.
+.. Per contattare un rappresentante vendite NetApp in merito ai suggerimenti, selezionare *Contatta vendite*. Una pagina Web mostra le opzioni tra cui è possibile scegliere per contattare un rappresentante di vendita NetApp.
+
+
+. Selezionare *fine*.
 
 
 
@@ -61,9 +92,106 @@ Potresti voler rivedere le valutazioni sui refresh tecnologici già effettuate e
 
 .Fasi
 . Dal menu di navigazione a sinistra di BlueXP, seleziona *Governance* > *efficienza economica* > *Tech refresh*.
-. Selezionare la scheda *Tech refresh Candidates*, che elenca tutti i sistemi su cui è stata effettuata una valutazione di aggiornamento della tecnologia. Quindi, selezionare *Visualizza azione* sulla riga per visualizzare le valutazioni e i consigli per quel sistema.
-+
-In alternativa, selezionare la riga in cui viene visualizzato "azione eseguita" e selezionare *Visualizza* per visualizzare i dettagli del sistema.
-
+. Selezionare la scheda *Tech refresh Candidates*, che elenca tutti i sistemi su cui è stata effettuata una valutazione di aggiornamento della tecnologia. Quindi, dal menu azioni sulla riga relativa al sistema, selezionare per visualizzare le valutazioni e le raccomandazioni per tale sistema.
+. Nella pagina valuta opzioni di aggiornamento, selezionare *Visualizza raccomandazione*.
 . Visualizzare i suggerimenti per l'aggiornamento.
++
+image:tech-refresh-view-recommendations2.png["Visualizza la pagina di raccomandazioni sulla valutazione dell'aggiornamento"]
+
+
+
+
+
+== Simula i carichi di lavoro sul nuovo hardware
+
+Se hai inviato gli log in di AutoSupport a NetApp negli ultimi 90 giorni, NetApp è in grado di fornire una simulazione per vedere le performance dei carichi di lavoro sul nuovo hardware.
+
+È possibile includere o escludere carichi di lavoro specifici dalla simulazione. È inoltre possibile aggiungere i carichi di lavoro se non compaiono nell'elenco dei carichi di lavoro esistenti.
+
+.Fasi
+. Dal menu di navigazione a sinistra di BlueXP, seleziona *Governance* > *efficienza economica* > *Tech refresh*.
++
+image:tech-refresh-list2.png["Pagina di aggiornamento tecnico che mostra la scheda candidati per l'aggiornamento tecnico"]
+
+. Guarda la scheda *Tech refresh Candidates*, che elenca tutti gli ambienti di lavoro che potrebbero trarre vantaggio da un aggiornamento tecnologico.
+. Selezionare l'ambiente di lavoro in cui si desidera ottenere una valutazione.
+. Nella colonna azioni, selezionare *valuta aggiornamento*.
++
+
+NOTE: Il servizio importa i dettagli del carico di lavoro in preparazione alla simulazione.
+
++
+image:tech-refresh-simulation-requirements3.png["Pagina di simulazione dei carichi di lavoro che mostra le opzioni relative ai requisiti"]
+
+. Nella pagina Simula carichi di lavoro > requisiti del carico di lavoro, esegui le seguenti operazioni:
++
+.. Per aggiungere un carico di lavoro non già presente nell'elenco, selezionare *Aggiungi carico di lavoro*. Per ulteriori informazioni, vedere <<Aggiungi un carico di lavoro>>.
+.. *IOPS*: In alternativa, modificare gli IOPS desiderati per il nuovo hardware.
+.. *Capacità (TIB)*: Se si desidera, modificare la capacità desiderata per il nuovo hardware.
+
+
+. Per escludere i carichi di lavoro, nella colonna azioni, selezionare l'opzione *Escludi carico di lavoro dalla simulazione*.
++
+
+TIP: Per includere i carichi di lavoro precedentemente esclusi, selezionare la scheda *workload esclusi* e selezionare l'opzione *Includi carico di lavoro nella simulazione*.
+.. Selezionare *Avanti*.
+
+. Esaminare i risultati simulati sul nuovo hardware nella pagina di configurazione:
++
+image:tech-refresh-simulation-results2.png["Pagina di simulazione dei carichi di lavoro che mostra i risultati della simulazione"]
+
++
+
+TIP: Le raccomandazioni migliori sono indicate con un'indicazione "migliore".
+
+. Per scaricare un PDF dei suggerimenti, selezionare *Download*.
+. Per contattare un rappresentante di vendita NetApp in merito alle raccomandazioni:
++
+.. Selezionare *contatto*.
+.. Immettere i dettagli di contatto.
+.. Aggiungere note speciali per l'addetto alle vendite NetApp.
+.. Selezionare *Conferma e inoltra*.
+
+
+. Selezionare *fine*.
+
+
+.Risultato
+Le raccomandazioni della simulazione del carico di lavoro vengono inviate a un rappresentante di vendita NetApp. Riceverai anche un'e-mail di conferma dei suggerimenti. Un rappresentante di vendita NetApp risponderà alla vostra richiesta.
+
+
+
+== Aggiungi un carico di lavoro
+
+È possibile aggiungere un carico di lavoro non già elencato nella simulazione dei carichi di lavoro.
+
+.Fasi
+. Dal menu di navigazione a sinistra di BlueXP, seleziona *Governance* > *efficienza economica* > *Tech refresh*.
++
+image:tech-refresh-list2.png["Pagina di aggiornamento tecnico che mostra la scheda candidati per l'aggiornamento tecnico"]
+
+. Selezionare l'ambiente di lavoro.
+. Nella colonna azioni, selezionare *valuta aggiornamento*.
++
+image:tech-refresh-simulation-requirements3.png["Pagina di simulazione dei carichi di lavoro che mostra le opzioni relative ai requisiti"]
+
+. Nella pagina Simula carichi di lavoro > requisiti del carico di lavoro, selezionare *Aggiungi carico di lavoro*.
++
+image:tech-refresh-workload-add2.png["Pagina di aggiunta del carico di lavoro"]
+
+. Selezionare l'applicazione, immettere il nome del carico di lavoro e selezionare le dimensioni del carico di lavoro.
+. Immettere i valori di capacità e prestazioni previsti del carico di lavoro.
++
+
+NOTE: Se si sceglie la dimensione del carico di lavoro di piccole dimensioni, tipiche o che è io-intensive, vengono visualizzati i valori predefiniti.
+
+. Facoltativamente, selezionare la freccia Opzioni avanzate e modificare le impostazioni predefinite per le seguenti informazioni:
++
+** *Efficienza dello storage*: Un rapporto tipico di riduzione dei dati potrebbe essere compreso tra 2 e 1.
+** *Random Read %*: Le dimensioni medie di io tipiche per una lettura casuale sono 16K KB.
+** *Letture sequenziali %*: Un tipico modello di lettura è casuale al 50% e sequenziale al 50%.
+** *Scritture casuali %*: Una tipica dimensione io media per una scrittura casuale è di 32K KB.
+** *Sequential Scritture %*: Un tipico schema di scrittura è casuale al 50% e sequenziale al 50%.
+
+
 

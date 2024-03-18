@@ -16,6 +16,20 @@ Scopri le novità dell'efficienza economica di BlueXP.
 
 
 
+== 14 marzo 2024
+
+Se disponi di risorse esistenti e vuoi determinare se una tecnologia deve essere aggiornata, puoi usare le opzioni di refresh della tecnologia dell'efficienza economica di BlueXP. Puoi rivedere una breve valutazione dei tuoi carichi di lavoro attuali e ottenere consigli, oppure, se hai inviato log di AutoSupport a NetApp negli ultimi 90 giorni, il servizio può ora fornire una simulazione dei carichi di lavoro per vedere le performance dei tuoi carichi di lavoro sul nuovo hardware.
+
+È anche possibile aggiungere un carico di lavoro ed escludere i carichi di lavoro esistenti dalla simulazione.
+
+In precedenza, era possibile solo effettuare una valutazione delle risorse e stabilire se si consiglia un refresh tecnologico.
+
+La funzione è ora parte dell'opzione aggiornamento tecnico nel menu di navigazione a sinistra.
+
+Scopri di più su link:../use/tech-refresh.html["Valutazione di un refresh tecnologico"].
+
+
+
 == 08 novembre 2023
 
 Questa release dell'efficienza economica di BlueXP include una nuova opzione per valutare gli asset e identificare se si consiglia un refresh tecnologico. Il servizio include una nuova opzione di aggiornamento tecnico nel riquadro a sinistra, nuove pagine in cui è possibile effettuare una valutazione dei carichi di lavoro e delle risorse correnti e un report che fornisce consigli.
