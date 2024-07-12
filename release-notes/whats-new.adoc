@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
-summary: 'L"efficienza economica di BlueXP identifica le risorse con capacità bassa corrente o prevista e fornisce consigli sul tiering dei dati o sulla capacità aggiuntiva (per i sistemi AFF).' 
+summary: 'Il servizio di efficienza economica BlueXP identifica i cluster con capacità bassa corrente o prevista e fornisce consigli su tiering dei dati o capacità aggiuntiva (per i sistemi AFF). Il servizio fornisce inoltre consigli sugli aggiornamenti tecnologici nei sistemi che si stanno avvicinando alla fine del ciclo di vita.' 
 ---
 = Novità
 :hardbreaks:

@@ -12,7 +12,7 @@ summary: 'Inizia a utilizzare l"efficienza economica di BlueXP verificando il su
 
 
 [role="lead"]
-Inizia verificando la preparazione del tuo ambiente operativo, dell'accesso, dell'accesso alla rete e del browser Web.
+Iniziate verificando la preparazione del vostro ambiente operativo, l'accesso e l'accesso alla rete.
 
 Per utilizzare l'efficienza economica di BlueXP, è necessario assicurarsi che il proprio ambiente soddisfi tutti i requisiti.
 

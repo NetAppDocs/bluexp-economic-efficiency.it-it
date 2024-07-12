@@ -16,7 +16,6 @@
   <block id="c5fbee6586294d81141f8dd158707985" category="inline-link">Scopri i cluster ONTAP on-premise</block>
   <block id="7372cb38b352714605614895b4902bd6" category="summary">Inizia a utilizzare l'efficienza economica di BlueXP verificando il supporto per il tuo ambiente, l'accesso alla rete, l'accesso e il browser Web.</block>
   <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">Prerequisiti per l'efficienza economica di BlueXP</block>
-  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">Inizia verificando la preparazione del tuo ambiente operativo, dell'accesso, dell'accesso alla rete e del browser Web.</block>
   <block id="328ca69db7afb3bf526a93cf02e334f5" category="paragraph">Per utilizzare l'efficienza economica di BlueXP, è necessario assicurarsi che il proprio ambiente soddisfi tutti i requisiti.</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">L'ambiente deve soddisfare tutti i requisiti di BlueXP, inclusi accesso e accesso alla rete da un browser Web.</block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">Avvio rapido di BlueXP</block>
@@ -170,7 +169,6 @@
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Una schermata che mostra le azioni che è possibile eseguire dopo aver selezionato il menu nell'ultima colonna della tabella.</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">Le limitazioni note identificano piattaforme, dispositivi o funzioni non supportate da questa release del servizio o che non interagiscono correttamente con esso.</block>
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">Limitazioni</block>
-  <block id="ae0e6a9591b0ba940ca472563fff152d" category="summary">L'efficienza economica di BlueXP identifica le risorse con capacità bassa corrente o prevista e fornisce consigli sul tiering dei dati o sulla capacità aggiuntiva (per i sistemi AFF).</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">Novità</block>
   <block id="c24b642feb1fabfe18bbee711c803f24" category="paragraph">Scopri le novità dell'efficienza economica di BlueXP.</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">02 aprile 2023</block>
@@ -475,4 +473,5 @@
   <block id="9087f29454392d1114832868ba710775" category="paragraph">È possibile accedere a questa funzione sia tramite l'efficienza economica di BlueXP (*Governance* &gt; *efficienza economica* &gt; *Tech refresh*) o tramite il consulente digitale di NetApp (*Dashboard* &gt; *Planning widget* &gt; *Tech refresh*).</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">Documentazione sull'efficienza economica di BlueXP</block>
   <block id="3d8fb7c37ddf3912bdf3208d101382d5" category="sidebar">Valuta un tech refresh</block>
+  <block id="7a2298e2cd5eafe22539462b05dbe38c" category="paragraph">Iniziate verificando la preparazione del vostro ambiente operativo, l'accesso e l'accesso alla rete.</block>
 </blocks>
