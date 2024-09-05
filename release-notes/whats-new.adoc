@@ -16,6 +16,16 @@ Scopri le novità dell'efficienza economica di BlueXP.
 
 
 
+== 15 maggio 2024
+
+Alcune caratteristiche di efficienza economica di BlueXP  sono state temporaneamente disattivate:
+
+* Aggiornamento tecnologico
+* Aggiungere capacità
+
+
+
+
 == 14 marzo 2024
 
 Se disponi di risorse esistenti e vuoi determinare se una tecnologia deve essere aggiornata, puoi usare le opzioni di refresh della tecnologia dell'efficienza economica di BlueXP. Puoi rivedere una breve valutazione dei tuoi carichi di lavoro attuali e ottenere consigli, oppure, se hai inviato log di AutoSupport a NetApp negli ultimi 90 giorni, il servizio può ora fornire una simulazione dei carichi di lavoro per vedere le performance dei tuoi carichi di lavoro sul nuovo hardware.

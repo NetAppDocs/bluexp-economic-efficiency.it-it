@@ -1,16 +1,12 @@
 ---
 indexpage:
   title: Documentazione sull'efficienza economica di BlueXP
-  summary: Il servizio di efficienza economica BlueXP identifica i cluster con capacità
-    bassa corrente o prevista e fornisce consigli su tiering dei dati o capacità aggiuntiva
-    (per i sistemi AFF). Il servizio fornisce inoltre consigli sugli aggiornamenti
-    tecnologici nei sistemi che si stanno avvicinando alla fine del ciclo di vita.
+  summary: Il servizio di efficienza economica di BlueXP  identifica i cluster con
+    capacità bassa attuale o prevista e offre consigli sul tiering dei dati.
   keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
     bluexp, data tier, hardware end of life
-  lead: Il servizio di efficienza economica BlueXP identifica i cluster con capacità
-    bassa corrente o prevista e fornisce consigli su tiering dei dati o capacità aggiuntiva
-    (per i sistemi AFF). Il servizio fornisce inoltre consigli sugli aggiornamenti
-    tecnologici nei sistemi che si stanno avvicinando alla fine del ciclo di vita.
+  lead: Il servizio di efficienza economica di BlueXP  identifica i cluster con capacità
+    bassa attuale o prevista e offre consigli sul tiering dei dati.
   tiles:
   - title: Inizia subito
     links:

@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
-keywords: economic efficiency remediate, economic efficiency, capacity planning 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, forecast, capacity, storage, 
 summary: 'Se i cluster sono attualmente inferiori o si prevede che siano inferiori alla soglia del 70% di capacità, il servizio di efficienza economica li identifica come risorse a bassa capacità e ti avvisa.' 
 ---
 = Esaminare lo stato della pianificazione della capacità
@@ -12,16 +12,13 @@ summary: 'Se i cluster sono attualmente inferiori o si prevede che siano inferio
 
 
 [role="lead"]
-Se le risorse di storage nel tuo ambiente sono attualmente inferiori o si prevede che siano inferiori alla soglia del 90% di capacità, il servizio di efficienza economica le identifica come risorse a bassa capacità e ti avvisa. Inoltre, il servizio di efficienza economica fornisce consigli sulla necessità di tierare i dati o ottenere capacità aggiuntiva.
+Se le risorse di storage nel tuo ambiente sono attualmente inferiori o si prevede che siano inferiori alla soglia del 90% di capacità, il servizio di efficienza economica le identifica come risorse a bassa capacità e ti avvisa. Inoltre, il servizio di efficienza economica offre consigli su come assegnare Tier ai dati.
 
 È possibile esaminare i seguenti tipi di dati per agevolare la risoluzione dei problemi di capacità.
 
 * Piattaforma
 * Paese in cui si trova la risorsa
 * Capacità corrente e prevista per mese
-* Utilizzo della capacità e percentuale
-* Trend di latenza
-* Tendenze IOPS
 
 
 .Fasi
@@ -29,7 +26,7 @@ Se le risorse di storage nel tuo ambiente sono attualmente inferiori o si preved
 . Selezionare *Evaluate Storage Options* per la risorsa.
 . Scegliere una delle seguenti opzioni:
 +
-** *Aggiungi capacità*: Continua link:../use/capacity-add.html["aggiunta di capacità"].
+** *Best practice*: Continua facendo clic sul link per visualizzare le Best practice.
 ** *Dati cold Tier*: Continua link:../use/capacity-tier-data.html["tiering dei dati cold nello storage cloud e liberazione dello storage"].
 ** *Nessuna azione necessaria*: Continua link:../use/capacity-reminders.html["selezione di nessuna azione e impostazione di promemoria da controllare di nuovo"].
 

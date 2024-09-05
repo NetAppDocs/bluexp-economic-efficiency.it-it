@@ -36,10 +36,8 @@
   <block id="df213f3ab79b8da9c8b1a9aa66a49358" category="doc">Scopri l'efficienza economica di BlueXP</block>
   <block id="6a38b1e28c18e6b4edeb4e7b0818a2d7" category="list-text">Identificare le risorse di storage del tuo ambiente che mostrano una capacità bassa.</block>
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">Esaminare le risorse per la capacità corrente e prevista.</block>
-  <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">Esamina l'utilizzo della CPU, le performance IOPS e le performance di latenza per determinare le opportunità di correzione della capacità.</block>
   <block id="6c4ccbebd2c1bc279ee2cb6f8f6b41f9" category="section-title">Vantaggi dell'efficienza economica di BlueXP</block>
   <block id="fa994af86d0c0087b7eee14a622f20f6" category="paragraph">L'efficienza economica di BlueXP offre i seguenti vantaggi:</block>
-  <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">Offre un processo semplice per ottenere capacità aggiuntiva</block>
   <block id="757f36865bb189e37e6988545be631ca" category="list-text">Riduce il tempo impiegato per la pianificazione di storage aggiuntivo</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">Costo</block>
   <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">Inizia a utilizzare l'efficienza economica di BlueXP accedendo al servizio in BlueXP.</block>
@@ -187,10 +185,8 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">I file di avviso forniscono informazioni sul copyright e sulle licenze di terze parti utilizzate nel software NetApp.</block>
   <block id="d171b7e73c5f2dfd5aa6af3cf856c062" category="summary">Il servizio NetApp BlueXP Economic Efficiency Capacity Planning utilizza l'ai per prevedere la crescita dei dati per agevolare il processo di pianificazione.</block>
   <block id="55d23e178d63a7dfa5b590a6cfdc18fb" category="doc">Esaminare e risolvere i problemi di capacità</block>
-  <block id="cee6750d0d4e5f1ebf12ff5962c2cc05" category="paragraph">La pianificazione della capacità implica l'identificazione di aree a bassa capacità nel tuo ambiente, sia attuali che previste. L'efficienza economica di BlueXP utilizza l'intelligenza artificiale per prevedere la crescita dei dati e contribuire al processo di pianificazione. Il servizio di efficienza economica identifica le aree a bassa capacità del tuo ambiente e fornisce consigli su come risolvere i problemi.</block>
   <block id="15ff24e1dff620c1df51b9d6cb48a073" category="paragraph">Utilizzando l'efficienza economica di BlueXP, è possibile raggiungere questi obiettivi:</block>
   <block id="2aeee6306a492b96e1d8d773a16fa4ee" category="list-text"><block ref="2aeee6306a492b96e1d8d773a16fa4ee" category="inline-link-macro-rx"></block></block>
-  <block id="2ca27275f5817357f9b49fd4c102cd3c" category="list-text"><block ref="2ca27275f5817357f9b49fd4c102cd3c" category="inline-link-macro-rx"></block></block>
   <block id="80b117d13aeb1c0337cca44c4f432522" category="inline-link-macro">Tier cold data to cloud storage e liberare storage</block>
   <block id="6cb6b275b6a21c610984fdd0576d0985" category="list-text"><block ref="6cb6b275b6a21c610984fdd0576d0985" category="inline-link-macro-rx"></block></block>
   <block id="05540742fefd5843712472ea58001fdc" category="inline-link-macro">Selezionare NO action (nessuna azione) e impostare i promemoria da controllare di nuovo</block>
@@ -226,17 +222,11 @@
   <block id="d452d8a47d94ca7bfae59d96b15e9eae" category="paragraph">Viene visualizzata la pagina Capacity Planning Status (Stato pianificazione capacità).</block>
   <block id="9f5f33b1411cb7c6db0f15c4c16a6ab2" category="list-text">Esaminare lo stato nella pagina Capacity Planning Status (Stato pianificazione capacità).</block>
   <block id="fbd53e396987285cf235247a34844e9e" category="summary">Se i cluster sono attualmente inferiori o si prevede che siano inferiori alla soglia del 70% di capacità, il servizio di efficienza economica li identifica come risorse a bassa capacità e ti avvisa.</block>
-  <block id="b65cfef4d4fde75189a1e74b65a77ec0" category="paragraph">Se le risorse di storage nel tuo ambiente sono attualmente inferiori o si prevede che siano inferiori alla soglia del 90% di capacità, il servizio di efficienza economica le identifica come risorse a bassa capacità e ti avvisa. Inoltre, il servizio di efficienza economica fornisce consigli sulla necessità di tierare i dati o ottenere capacità aggiuntiva.</block>
   <block id="837d5e9f2c5cbcdab7649199e74aeb6f" category="paragraph">È possibile esaminare i seguenti tipi di dati per agevolare la risoluzione dei problemi di capacità.</block>
   <block id="419f3742e6de8e0ec4b22cce005e7630" category="list-text">Piattaforma</block>
   <block id="47e9bbb6c6753120f1dd00ed48d96e49" category="list-text">Paese in cui si trova la risorsa</block>
   <block id="0df07e1f7ae3afc987ed03150806ffab" category="list-text">Capacità corrente e prevista per mese</block>
-  <block id="a513bb90ec1f77a332a7def969448b65" category="list-text">Utilizzo della capacità e percentuale</block>
-  <block id="d94ea82b5ee3ae0f84fea0c15f897121" category="list-text">Trend di latenza</block>
-  <block id="0b01356b625dcd69b61907497fa47842" category="list-text">Tendenze IOPS</block>
   <block id="393020d67c4695c30e4112c74946b74b" category="list-text">Scegliere una delle seguenti opzioni:</block>
-  <block id="91c71bf1224b1e14a6c1f681b8177e35" category="inline-link-macro">aggiunta di capacità</block>
-  <block id="d9883c7f55a9f89fbe625003d35013d9" category="list-text">*Aggiungi capacità*: Continua <block ref="da789fd2f6c7c3e80b54e962404e89e8" category="inline-link-macro-rx"></block>.</block>
   <block id="9d9adc1e6779b1d49c9746d8b1715ad4" category="inline-link-macro">tiering dei dati cold nello storage cloud e liberazione dello storage</block>
   <block id="47141754b699410733fa9410d0da24bd" category="list-text">*Dati cold Tier*: Continua <block ref="e76e1661c872ce87a3a0c42e10da0c33" category="inline-link-macro-rx"></block>.</block>
   <block id="7da2d43820b3b6996f9bf72d06cd62d2" category="inline-link-macro">selezione di nessuna azione e impostazione di promemoria da controllare di nuovo</block>
@@ -336,7 +326,6 @@
   <block id="717a5758b6ab4bcbf7dd110d67315d1b" category="paragraph"><block ref="5f2949df55f5fd88f90867ab8210f71d" category="inline-link-macro-rx"></block>.</block>
   <block id="be853e8f5a0091adcfb21a1dafa0fc4a" category="paragraph"><block ref="0b83f5a55495fa74f844e7f5daa12fe1" category="inline-link-macro-rx"></block>.</block>
   <block id="4aaa8f0f410953c6f2e2f8ee21235446" category="list-text"><block ref="2aeee6306a492b96e1d8d773a16fa4ee" category="inline-link-macro-rx"></block>.</block>
-  <block id="1bedf24429b0b6c53a392bfed0382203" category="list-text"><block ref="2ca27275f5817357f9b49fd4c102cd3c" category="inline-link-macro-rx"></block>.</block>
   <block id="c59444289b7d5b170f883b78f647a7ac" category="list-text"><block ref="36a4912d0b5387943c5830e2f89a1f51" category="inline-link-macro-rx"></block>.</block>
   <block id="03081baab00ef591d64608f4a8b78847" category="list-text"><block ref="0a845851e887b09bb34d062ef8693aa3" category="inline-link-macro-rx"></block>.</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
@@ -353,15 +342,8 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Per supporto tecnico relativo a un file service di un cloud provider, alla sua infrastruttura o a una soluzione che utilizza il servizio, fare riferimento a "Guida in linea" nella documentazione BlueXP relativa a quel prodotto.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Per ricevere supporto tecnico specifico di BlueXP e delle relative soluzioni e servizi storage, utilizza le opzioni di supporto descritte di seguito.</block>
   <block id="e5871941005696021ad600fa37da85f1" category="summary">Il servizio di efficienza economica BlueXP identifica i cluster con capacità bassa corrente o prevista e fornisce consigli su tiering dei dati o capacità aggiuntiva (per i sistemi AFF). Il servizio fornisce inoltre consigli sugli aggiornamenti tecnologici nei sistemi che si stanno avvicinando alla fine del ciclo di vita.</block>
-  <block id="04d4502244c1b78fc398e2ab854757d1" category="paragraph">L'efficienza economica di BlueXP valuta due aree vitali del tuo ambiente: Risorse storage con bassa capacità attuale o prevista e sistemi che si stanno avvicinando alla fine della vita utile. Il servizio offre consigli sul tiering dei dati o su capacità aggiuntiva (per i sistemi AFF) e opzioni di refresh tecnologico che soddisfano le tue esigenze di business.</block>
   <block id="c5eed8523c59be7e7055502368d7c8c9" category="paragraph">L'efficienza economica di BlueXP può aiutarti a raggiungere i seguenti obiettivi.</block>
   <block id="9875b19dee665bb875b719b9e9ae8af9" category="paragraph">*Pianificazione della capacità*</block>
-  <block id="a75c21b3028c89c7a9ba2ea318233515" category="list-text">Ottieni consigli su come espandere la capacità nel tuo ambiente.</block>
-  <block id="b4b8b4721f6971106929030c2ebeed9e" category="paragraph">Il planning della capacità dell'efficienza economica di BlueXP si applica solo ai sistemi AFF on-premise (inclusi i sistemi AFF unificati e tutti gli array SAN).</block>
-  <block id="b8f192587f9fb6aabeab974d20b80bb3" category="list-text">Esaminare un elenco di sistemi che si stanno avvicinando alla fine del ciclo di vita o che si stanno avvicinando ad altri eventi del ciclo di vita.</block>
-  <block id="9d32ad95cd61231af88e0c366f0ded5f" category="list-text">Una valutazione dell'ambiente di lavoro attuale e suggerimenti su opzioni di refresh tecnologico in grado di soddisfare i tuoi requisiti di carico di lavoro, capacità, performance e budget.</block>
-  <block id="c75d78ac539015a339e4aa9720ca729e" category="inline-image-macro">Diagramma del processo di refresh tecnologico nell'efficienza economica di BlueXP</block>
-  <block id="c814cc88c080268f66afab5af1deb9d4" category="paragraph"><block ref="c814cc88c080268f66afab5af1deb9d4" category="inline-image-macro-rx" type="image"></block></block>
   <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">Offre consigli di un consulente fidato per affrontare problemi di capacità nel tuo ambiente</block>
   <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp non addebita alcun costo per l'utilizzo del servizio.</block>
   <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">Se decidi di eseguire il tiering dei dati cold allo storage cloud, dovrai controllare il tuo cloud provider per verificare i costi applicabili.</block>
@@ -464,14 +446,17 @@
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">In precedenza, era possibile solo effettuare una valutazione delle risorse e stabilire se si consiglia un refresh tecnologico.</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">La funzione è ora parte dell'opzione aggiornamento tecnico nel menu di navigazione a sinistra.</block>
   <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">Scopri di più su <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>.</block>
-  <block id="125b544edea581d53f2d48e24eca22a1" category="inline-link-macro">Esegui una valutazione dei tech refresh o simula i tuoi carichi di lavoro su nuovo hardware</block>
-  <block id="cfdddd9fdda3a6c9edb8d92e163f706e" category="list-text"><block ref="85216510d035cb29818c638561cda6b0" category="inline-link-macro-rx"></block>.</block>
-  <block id="e581a5d8d5f03d5e44c9b34c7a287331" category="paragraph">*Valutazione e simulazione dell'aggiornamento tecnologico*</block>
-  <block id="ab59f1058d018fe7c2ab12c567b827c5" category="list-text">Esegui una simulazione dei carichi di lavoro su nuovo hardware e scarica i risultati.</block>
-  <block id="c010d313c84aa7576715aeca465e02ba" category="list-text">Identifica i sistemi che si stanno avvicinando agli eventi del ciclo di vita per aiutarti a pianificare un refresh tecnologico, eseguendo una breve valutazione o una simulazione del carico di lavoro su un nuovo hardware</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">Accesso</block>
   <block id="9087f29454392d1114832868ba710775" category="paragraph">È possibile accedere a questa funzione sia tramite l'efficienza economica di BlueXP (*Governance* &gt; *efficienza economica* &gt; *Tech refresh*) o tramite il consulente digitale di NetApp (*Dashboard* &gt; *Planning widget* &gt; *Tech refresh*).</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">Documentazione sull'efficienza economica di BlueXP</block>
-  <block id="3d8fb7c37ddf3912bdf3208d101382d5" category="sidebar">Valuta un tech refresh</block>
   <block id="7a2298e2cd5eafe22539462b05dbe38c" category="paragraph">Iniziate verificando la preparazione del vostro ambiente operativo, l'accesso e l'accesso alla rete.</block>
+  <block id="f5b4f15fd06d9943704f9df6285311a4" category="summary">Il servizio di efficienza economica di BlueXP  identifica i cluster con capacità bassa attuale o prevista e offre consigli sul tiering dei dati.</block>
+  <block id="6d6792b7c7f14e72a5b07b04908704a4" category="paragraph">L'efficienza economica di BlueXP  valuta le tue risorse storage con una capacità bassa, attuale o prevista. Il servizio offre consigli sulle opzioni di tiering dei dati che soddisfano le tue esigenze di business.</block>
+  <block id="9e352447a1c5e46200808eb84d9a862a" category="list-text">Identifica i sistemi che si stanno avvicinando agli eventi del ciclo di vita per aiutarti a pianificare un refresh tecnologico</block>
+  <block id="93716955add4f66b2af685a33bac4789" category="section-title">15 maggio 2024</block>
+  <block id="ec6210d470db7cd7b6f5408f088e1c02" category="paragraph">Alcune caratteristiche di efficienza economica di BlueXP  sono state temporaneamente disattivate:</block>
+  <block id="d519fe60b31330425fdb5e1c21309f78" category="list-text">Aggiornamento tecnologico</block>
+  <block id="89d8cfe0f753f155042a3418a0642e61" category="paragraph">La pianificazione della capacità implica l'identificazione di aree a bassa capacità nel tuo ambiente, sia attuali che previste. L'efficienza economica di BlueXP utilizza l'intelligenza artificiale per prevedere la crescita dei dati e contribuire al processo di pianificazione. Il servizio di efficienza economica identifica le aree a bassa capacità del tuo ambiente.</block>
+  <block id="6c83324e1acde7f85b7376ff1f8a5b28" category="paragraph">Se le risorse di storage nel tuo ambiente sono attualmente inferiori o si prevede che siano inferiori alla soglia del 90% di capacità, il servizio di efficienza economica le identifica come risorse a bassa capacità e ti avvisa. Inoltre, il servizio di efficienza economica offre consigli su come assegnare Tier ai dati.</block>
+  <block id="b9f54dff8d8edfb26e5f92442e93c115" category="list-text">*Best practice*: Continua facendo clic sul link per visualizzare le Best practice.</block>
 </blocks>

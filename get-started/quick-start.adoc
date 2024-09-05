@@ -27,9 +27,7 @@ link:../get-started/capacity-setup.html["Completare la procedura per configurare
 Dopo aver configurato il servizio, ecco cosa fare in seguito.
 
 [role="quick-margin-list"]
-* link:../use/tech-refresh.html["Esegui una valutazione dei tech refresh o simula i tuoi carichi di lavoro su nuovo hardware"].
 * link:../use/capacity-review-status.html["Esaminare lo stato della pianificazione della capacità"].
-* link:../use/capacity-add.html["Aggiungere capacità"].
 * link:../use/capacity-tier-data.html["Tier cold data to cloud storage per liberare lo storage"].
 * link:../use/capacity-reminders.html["Se si desidera, impostare i promemoria da controllare di nuovo"].
 
