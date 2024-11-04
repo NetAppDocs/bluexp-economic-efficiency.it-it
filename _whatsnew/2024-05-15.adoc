@@ -1,0 +1,13 @@
+= Funzioni disattivate
+:allow-uri-read: 
+
+
+
+
+=== Funzioni disattivate
+
+Alcune caratteristiche di efficienza economica di BlueXP  sono state temporaneamente disattivate:
+
+* Aggiornamento tecnologico
+* Aggiungere capacità
+

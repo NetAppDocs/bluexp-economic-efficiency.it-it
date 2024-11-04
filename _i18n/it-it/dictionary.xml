@@ -435,7 +435,6 @@
   <block id="10fa032662780ff6f01bd6647d92c626" category="paragraph">È anche possibile aggiungere un carico di lavoro ed escludere i carichi di lavoro esistenti dalla simulazione.</block>
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">In precedenza, era possibile solo effettuare una valutazione delle risorse e stabilire se si consiglia un refresh tecnologico.</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">La funzione è ora parte dell'opzione aggiornamento tecnico nel menu di navigazione a sinistra.</block>
-  <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">Scopri di più su <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>.</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">Accesso</block>
   <block id="9087f29454392d1114832868ba710775" category="paragraph">È possibile accedere a questa funzione sia tramite l'efficienza economica di BlueXP (*Governance* &gt; *efficienza economica* &gt; *Tech refresh*) o tramite il consulente digitale di NetApp (*Dashboard* &gt; *Planning widget* &gt; *Tech refresh*).</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">Documentazione sull'efficienza economica di BlueXP</block>
@@ -459,4 +458,8 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">È necessario associare le credenziali del sito di supporto NetApp alla propria organizzazione BlueXP  per abilitare i seguenti flussi di lavoro chiave per Cloud Volumes ONTAP:</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">L'associazione delle credenziali NSS all'organizzazione BlueXP  è diversa dall'account NSS associato a un accesso utente BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Queste credenziali NSS sono associate all'ID organizzazione BlueXP  specifico dell'utente. Gli utenti che appartengono all'organizzazione BlueXP  possono accedere a queste credenziali da *supporto &gt; Gestione NSS*.</block>
+  <block id="6d060bbb2a63ad6b1466ad80fcfc6275" category="doc">Opzioni di aggiornamento tecnologico</block>
+  <block id="bff48bc8f1cd9f08f36e8d0c4fa810ff" category="paragraph">Ulteriori informazioni su<block ref="a53ad2061326060987afe3d1fd22d00d" category="inline-link-rx"></block> .</block>
+  <block id="ba568c6eda754bba155b9d0f187ee2cd" category="doc">Funzioni disattivate</block>
+  <block id="fe993a24bb9aca3efb672c108a8c8a76" category="section-title">Presentazione dell'efficienza economica di BlueXP </block>
 </blocks>

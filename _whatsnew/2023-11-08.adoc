@@ -1,0 +1,9 @@
+= Aggiornamento tecnologico
+:allow-uri-read: 
+
+
+
+
+=== Aggiornamento tecnologico
+
+Questa release dell'efficienza economica di BlueXP include una nuova opzione per valutare gli asset e identificare se si consiglia un refresh tecnologico. Il servizio include una nuova opzione di aggiornamento tecnico nel riquadro a sinistra, nuove pagine in cui è possibile effettuare una valutazione dei carichi di lavoro e delle risorse correnti e un report che fornisce consigli.
