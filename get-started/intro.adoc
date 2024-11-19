@@ -45,4 +45,4 @@ Se decidi di eseguire il tiering dei dati cold allo storage cloud, dovrai contro
 
 == Accesso
 
-È possibile accedere a questa funzione sia tramite l'efficienza economica di BlueXP (*Governance* > *efficienza economica* > *Tech refresh*) o tramite il consulente digitale di NetApp (*Dashboard* > *Planning widget* > *Tech refresh*).
+È possibile accedere a questa funzione sia tramite BlueXP  economic efficiency (*Governance* > *Economic Efficiency* > *Tech refresh*) o tramite Active IQ Digital Advisor (noto anche come Digital Advisor) (*Dashboard* > *Planning widget* > *Tech refresh*).

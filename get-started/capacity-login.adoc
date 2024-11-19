@@ -17,7 +17,7 @@ Utilizzate NetApp BlueXP per accedere al servizio di efficienza economica.
 Per accedere a BlueXP, puoi utilizzare le credenziali del sito di supporto NetApp oppure iscriverti per un login cloud NetApp utilizzando la tua email e una password. https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Scopri di più sull'accesso"^].
 
 
-TIP: È possibile accedere a questa funzione sia tramite l'efficienza economica di BlueXP (*Governance* > *efficienza economica* > *Tech refresh*) o tramite il consulente digitale di NetApp (*Dashboard* > *Planning widget* > *Tech refresh*).
+TIP: È possibile accedere a questa funzione sia tramite BlueXP  economic efficiency (*Governance* > *Economic Efficiency* > *Tech refresh*) o tramite Digital Advisor (*Dashboard* > *Planning widget* > *Tech refresh*).
 
 .Fasi
 . Aprire un browser Web e accedere a. https://console.bluexp.netapp.com/["Console BlueXP"^].
